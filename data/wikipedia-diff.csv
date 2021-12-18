@@ -1,31 +1,29 @@
 @@,wdid,name,pid,position
+->,Q8014785,William Lukuvi,Q67203615->Q14866850,"Minister of Lands, Housing and Human Settlements Developments->Minister of Lands, Housing and Human Settlements"
 ->,Q6738666,Makame Mbarawa,Q59694390->Q14866868,"Minister of Works, Transport and Communications->Minister of Works and Transport"
 ->,Q6737420,Kassim Majaliwa,Q16147875,Prime Minister of Tanzania->Prime Minister
-->,Q30090589->Q104524120,Innocent Bashungwa->Geofrey Mwambe,Q16151574,Minister of Industry and Trade
-->,Q30090567->Q101649229,Japhet Hasunga->Adolf Mkenda,Q54087175->Q6866604,Minister of Agriculture
-->,Q29579700->Q16732979,Palamagamba John Aidan Mwaluko Kabudi->Liberata Mulamula,Q16147348,"Minister of Foreign Affairs->Minister of Foreign Affairs, E.A.C., Regional and International Cooperation"
-->,Q22279375,Joyce Ndalichako,Q60690257->Q6866868,"Minister of Education, Science, Technology and Vocational Training"
+->,Q5018704,Hussein Mwinyi,Q3503632,President of Zanzibar->President
+->,Q31752975,Mashimba Ndaki,Q110177753->Q6866604,Minister of Livestock and Fisheries
+->,Q31752753,Mwigulu Madelu->Mwigulu Nchemba,Q16147337,Minister of Finance->Minister of Finance and Planning
+->,Q30090598,Doto Biteko,Q67203604->Q11219003,Minister of Minerals
+->,Q27656841,Ashatu Kijaji,Q110178688->Q13125253,"Minister of Communication & ICT->Minister of News, Communication & ICT"
+->,Q22279375,Joyce Ndalichako,Q60690257->Q6866868,"Minister for Education, Science, Technology and Vocational Training->Minister of Education, Science, Technology and Vocational Training"
+->,Q22279305,Philip Isdory Mpango->Philip Mpango,Q19057636->Q3380702,11th Vice-President of Tanzania->Vice President
+->,Q16873167,Damas Ndumbaro,Q67203591->Q10970174,Ministry of Natural Resources and Tourism->Minister of Natural Resources and Tourism
+->,Q16732979,Liberata Mulamula,Q16147348,"Ministry of Foreign Affairs and East African Cooperation->Minister of Foreign Affairs, E.A.C., Regional and International Cooperation"
+->,Q16193890,Stergomena Lawrence Tax->Stergomena Tax,Q54087616->Q14866765,Minister of Defence and National Service
 ->,Q16193885,Samia Suluhu,Q7241291,President of Tanzania->President
----,Q29579700,Palamagamba John Aidan Mwaluko Kabudi,Q60688958,Minister of Constitutional and Legal Affairs
+->,Q1612942,January Makamba,Q60076275->Q11219003,Minister of Energy
+->,Q110178914->NULL,Eliezer Feleshi,Q19850408,Attorney General of Tanzania->Attorney General
+->,Q106234674,Dorothy Gwajima,Q54087259->Q6867121,"Minister of Health, Community Development, Gender, Elders and Children->Minister of Health, Community Development, Gender, Seniors and Children"
+->,Q104524120,Geofrey Mwambe,Q110178353->Q16151574,Minister of Investment->Minister of Industry and Trade
+->,Q101649229,Adolf Mkenda,Q54087175->Q6866604,Minister of Agriculture
+---,Q30090589,Innocent Bashungwa,Q67203620,"Ministry of Information, Culture, Arts and Sports"
 +++,Q97305372,Adelardus Kilangi,Q19850408,Attorney General
-+++,Q8014785,William Lukuvi,Q14866850,"Minister of Lands, Housing and Human Settlements"
-+++,Q5018704,Hussein Mwinyi,Q3503632,President
-+++,Q31752975,Mashimba Ndaki,Q6866604,Minister of Livestock and Fisheries
-+++,Q31752753,Mwigulu Nchemba,Q16147337,Minister of Finance and Planning
 +++,Q31752690,Elias John Kwandikwa,Q14866765,Minister of Defence and National Service
 +++,Q31752517,Medard Kalemani,Q11219003,Minister of Energy
-+++,Q30090598,Doto Biteko,Q11219003,Minister of Minerals
-+++,Q30090592,Jumaa Aweso,Q16147179,Minister of Water and Irrigation
 +++,Q30090589,Innocent Bashungwa,Q6867194,"Minister of Culture, Artists and Sports"
 +++,Q30090589,Innocent Bashungwa,Q6867194,"Minister of Information, Culture, Artists and Sports"
 +++,Q29579700,Palamagamba Kabudi,Q14866848,Minister of Constitutional Affairs and Justice
-+++,Q27656841,Ashatu Kijaji,Q13125253,"Minister of News, Communication & ICT"
-+++,Q22279305,Philip Mpango,Q3380702,Vice President
-+++,Q16873167,Damas Ndumbaro,Q10970174,Minister of Natural Resources and Tourism
 +++,Q16206282,Faustine Ndugulile,Q13125253,Minister of Communication & ICT
-+++,Q16193890,Stergomena Tax,Q14866765,Minister of Defence and National Service
-+++,Q1612942,January Makamba,Q11219003,Minister of Energy
-+++,Q11045555,George Simbachawene,Q16147126,Minister of Home Affairs
-+++,Q106234674,Dorothy Gwajima,Q6867121,"Minister of Health, Community Development, Gender, Seniors and Children"
 +++,Q104523287,Leonard Chamuriho,Q14866868,Minister of Works and Transport
-+++,,Eliezer Feleshi,Q19850408,Attorney General
