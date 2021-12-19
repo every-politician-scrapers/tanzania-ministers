@@ -1,1 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q15939315,Kikwete Cabinet,2006-01-06,11,,,2015-11-05,11,,,Q5015563,Cabinet of Tanzania,,,,,Q22079698,Magufuli cabinet,,,Q22079698,Magufuli cabinet
+,Q22079698,Magufuli cabinet,2015-12-14,11,,,2021-03-17,11,,,Q5015563,Cabinet of Tanzania,,,Q15939315,Kikwete Cabinet,Q106610313,Suluhu Cabinet,Q15939315,Kikwete Cabinet,,
+,Q106610313,Suluhu Cabinet,2021-03-31,11,,,,,,,Q5015563,Cabinet of Tanzania,,,Q22079698,Magufuli cabinet,,,,,,
