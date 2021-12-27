@@ -1,4 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q7241291,President of Tanzania,Q924,Q924,Q19057636,Q695619,1964-10-29,,Q95992459,,President of Tanzania
 Q16147875,Prime Minister of Tanzania,Q924,Q924,,,1972,,,,Prime Minister of Tanzania
 Q19057636,Vice President of Tanzania,Q924,Q924,,,1964,,,,
 Q54087175,Minister of Agriculture,Q924,Q924,,,2017-10,,,,
@@ -12,10 +13,13 @@ Q16147337,Minister of Finance,Q924,Q924,,,,,,,Minister of Finance (Tanzania)
 Q16147348,Minister of Foreign Affairs,Q924,Q924,,,,,,,Minister of Foreign Affairs (Tanzania)
 Q54087259,Minister of Health,Q924,Q924,,,2015,,,,
 Q16147126,Minister of Home Affairs,Q924,Q924,,,,,,,Minister of Home Affairs (Tanzania)
+Q16151574,Minister of Industry and Trade,Q924,Q924,,,,,Q67284358,Q67284358,Minister of Industry and Trade (Tanzania)
+Q67284358,"Minister of Industry, Trade and Investment",Q924,Q924,,,,,Q16151574,Q16151574,
 Q67203620,"Minister of Information, Culture, Arts and Sports",Q924,Q924,,,2006,,,,
 Q54087695,Minister of Internal Affairs of Tanzania,,Q924,,,,,,,
 Q110178353,Minister of Investment,Q924,Q924,,,,,,,
 Q67203615,"Minister of Lands, Housing and Human Settlements Developments",,Q924,,,,,,,
+Q110177753,Minister of Livestock and Fisheries,,Q924,,,,,,,
 Q67203604,Minister of Minerals,Q924,Q924,,,,,,,
 Q67203591,Minister of Natural Resources and Tourism,,Q924,,,,,,,
 Q16147179,Minister of Water and Irrigation,Q924,Q924,,,,,,,Minister of Water and Irrigation
