@@ -1,0 +1,208 @@
+{
+  "title": "William Lukuvi",
+  "pageID": 38559354,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Chama Cha Mapinduzi MPs",
+    "Tanzanian MPs 2000–2005",
+    "Tanzanian MPs 2005–2010",
+    "Tanzanian MPs 2010–2015",
+    "Tanzanian MPs 2015–2020",
+    "Tanzanian MPs 2020–2025",
+    "Government ministers of Tanzania",
+    "Open University of Tanzania alumni",
+    "People from Iringa Rural District"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "William Vangimembe Lukuvi (born 15 August 1955) is a Tanzanian CCM politician and Member of Parliament for Ismani constituency.",
+              "links": [
+                {
+                  "text": "Tanzanian",
+                  "type": "internal",
+                  "page": "Tanzania"
+                },
+                {
+                  "text": "CCM",
+                  "type": "internal",
+                  "page": "Chama Cha Mapinduzi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "William Vangimembe Lukuvi"
+                ]
+              }
+            },
+            {
+              "text": "At present, he is the Minister for Lands, Housing and Human Settlement Development."
+            },
+            {
+              "text": "He completed Masters of Arts in Political Science at Open University of Tanzania."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1955",
+          "month": "08",
+          "day": "15",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "William Lukuvi"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "William Lukuvi cropped.png"
+          },
+          "office": {
+            "text": "Minister of Lands, Housing and Human Settlements Developments",
+            "links": [
+              {
+                "text": "Minister of Lands, Housing and Human Settlements Developments",
+                "type": "internal",
+                "page": "Ministry of Lands, Housing and Human Settlements Developments"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 January 2015"
+          },
+          "predecessor": {
+            "text": "Anna Tibaijuka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anna Tibaijuka"
+              }
+            ]
+          },
+          "office2": {
+            "text": "State Minister in the PM's Office for Policy, Co-ordination and Parliamentary Affairs"
+          },
+          "term_start2": {
+            "text": "28 November 2010"
+          },
+          "term_end2": {
+            "text": "January 2015"
+          },
+          "predecessor2": {
+            "text": "Philip Marmo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philip Marmo"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jenista Mhagama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jenista Mhagama"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of Parliament for Ismani",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "November 1995"
+          },
+          "birth_date": {
+            "text": "August 15, 1955"
+          },
+          "birth_place": {
+            "text": "Mapogoro, Tanganyika",
+            "links": [
+              {
+                "text": "Mapogoro",
+                "type": "internal",
+                "page": "idodi"
+              },
+              {
+                "text": "Tanganyika",
+                "type": "internal",
+                "page": "Tanganyika (territory)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Tanzanian"
+          },
+          "party": {
+            "text": "CCM",
+            "links": [
+              {
+                "text": "CCM",
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tabora TTC (Cert) Open University of Tanzania",
+            "links": [
+              {
+                "text": "TTC",
+                "type": "internal",
+                "page": "Teacher training college"
+              },
+              {
+                "type": "internal",
+                "page": "Open University of Tanzania"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

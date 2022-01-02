@@ -1,0 +1,248 @@
+{
+  "title": "Job Ndugai",
+  "pageID": 38965371,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Speakers of the National Assembly (Tanzania)",
+    "Chama Cha Mapinduzi MPs",
+    "Tanzanian MPs 2000–2005",
+    "Tanzanian MPs 2005–2010",
+    "Tanzanian MPs 2010–2015",
+    "Tanzanian MPs 2015–2020",
+    "Tanzanian MPs 2020–2025",
+    "Kibaha Secondary School alumni",
+    "Old Moshi Secondary School alumni",
+    "College of African Wildlife Management alumni",
+    "University of Dar es Salaam alumni",
+    "Norwegian College of Agriculture alumni",
+    "Open University of Tanzania alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mr. Job Yustino Ndugai (born 21 January 1963) is a Tanzanian politician who has been Speaker of the National Assembly of Tanzania since November 2015.",
+              "links": [
+                {
+                  "text": "Tanzanian",
+                  "type": "internal",
+                  "page": "Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Tanzania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Job Yustino Ndugai"
+                ]
+              }
+            },
+            {
+              "text": "Previously he was Deputy Speaker from 2010 to 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "01",
+          "day": "21",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Job Ndugai"
+          },
+          "image": {
+            "text": "Job Ndugai, December 2017 (5122) (cropped1).jpg"
+          },
+          "office": {
+            "text": "7th Speaker of the\nNational Assembly",
+            "links": [
+              {
+                "text": "7th",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Tanzania"
+              },
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Tanzania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 November 2015"
+          },
+          "predecessor": {
+            "text": "Anne Makinda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anne Makinda"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Tulia Ackson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tulia Ackson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Speaker of the\nNational Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Tanzania)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "November 2010"
+          },
+          "term_end1": {
+            "text": "November 2015"
+          },
+          "1blankname1": {
+            "text": "Speaker"
+          },
+          "1namedata1": {
+            "text": "Anne Makinda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anne Makinda"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Tulia Ackson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tulia Ackson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of Parliament\nfor Kongwa",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              },
+              {
+                "text": "Kongwa",
+                "type": "internal",
+                "page": "Kongwa District"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 2000"
+          },
+          "birth_date": {
+            "text": "January 21, 1963"
+          },
+          "birth_place": {
+            "text": "Tanganyika",
+            "links": [
+              {
+                "text": "Tanganyika",
+                "type": "internal",
+                "page": "Tanganyika Territory"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Tanzanian"
+          },
+          "party": {
+            "text": "CCM",
+            "links": [
+              {
+                "text": "CCM",
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Fatuma Mganga"
+          },
+          "children": {
+            "text": "Unknown"
+          },
+          "alma_mater": {
+            "text": "Mweka College (Dip)\nUniversity of Dar es Salaam\nAgricult. Uni. of Norway (MSc)\nOpen University of Tanzania (LLB)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mweka College"
+              },
+              {
+                "type": "internal",
+                "page": "University of Dar es Salaam"
+              },
+              {
+                "text": "Agricult. Uni. of Norway",
+                "type": "internal",
+                "page": "Agricultural University of Norway"
+              },
+              {
+                "type": "internal",
+                "page": "Open University of Tanzania"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇹🇿 Tanzania"
+          },
+          "branch": {
+            "text": "National Service",
+            "links": [
+              {
+                "text": "National Service",
+                "type": "internal",
+                "page": "National Service (Tanzania)"
+              }
+            ]
+          },
+          "military_blank1": {
+            "text": "Military camp"
+          },
+          "military_data1": {
+            "text": "Ruvu and Maramba"
+          },
+          "military_blank2": {
+            "text": "Duration"
+          },
+          "military_data2": {
+            "text": "1 year"
+          }
+        }
+      ]
+    }
+  ]
+}
