@@ -1,0 +1,225 @@
+{
+  "title": "Dorothy Gwajima",
+  "pageID": 67285657,
+  "categories": [
+    "Living people",
+    "1971 births",
+    "Tanzanian women",
+    "Tanzanian scientists",
+    "Government ministers of Tanzania",
+    "Chama Cha Mapinduzi MPs",
+    "Chama Cha Mapinduzi politicians",
+    "Nominated Tanzanian MPs",
+    "Tanzanian MPs 2020–2025"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dorothy Onesphoro Gwajima also known Gwajima Dorothy is a Tanzanian CCM politician and a nominated cabinet member since 2020.",
+              "links": [
+                {
+                  "text": "Tanzanian",
+                  "type": "internal",
+                  "page": "Tanzania"
+                },
+                {
+                  "text": "CCM",
+                  "type": "internal",
+                  "page": "Chama Cha Mapinduzi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dorothy Onesphoro Gwajima"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed by President John Magufuli into the Magufuli cabinet and still presenlty serves as a Minister of Health, Community Development, Gender, Elders and Children under Suluhu Cabinet.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Magufuli"
+                },
+                {
+                  "type": "internal",
+                  "page": "Magufuli cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Suluhu Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She became widely known after announcing that Tanzania did not plan to order any Covid-19 vaccines and promoting steam inhalation as a cure against the virus, along with a vegetable smoothie recipe and other cures, similiarily to the claims of President Magufuli.",
+              "links": [
+                {
+                  "text": "did not plan",
+                  "type": "internal",
+                  "page": "COVID-19 vaccination in Tanzania"
+                },
+                {
+                  "text": "Covid-19 vaccines",
+                  "type": "internal",
+                  "page": "COVID-19 vaccine"
+                },
+                {
+                  "text": "smoothie",
+                  "type": "internal",
+                  "page": "smoothie"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "03",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Honorable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dorothy Gwajima"
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Health, Community Development, Gender, Elders and Children"
+          },
+          "term_start": {
+            "text": "December 2020"
+          },
+          "president": {
+            "text": "John Magufuli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Magufuli"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ummy Mwalimu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ummy Mwalimu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 December 2020"
+          },
+          "president2": {
+            "text": "John Magufuli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Magufuli"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "None (Nominated MP)"
+          },
+          "birth_date": {
+            "text": "March 21, 1971"
+          },
+          "birth_place": {
+            "text": "Iramba, Singida Region"
+          },
+          "nationality": {
+            "text": "Tanzanian",
+            "links": [
+              {
+                "text": "Tanzanian",
+                "type": "internal",
+                "page": "Tanzania"
+              }
+            ]
+          },
+          "education": {
+            "text": "Wembere Primary School, Marangu Secondary School, Mwenge Secondary School"
+          },
+          "alma_mater": {
+            "text": "Privolzhsky Research Medical University (BA) Royal Tropical Institute (MA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Privolzhsky Research Medical University"
+              },
+              {
+                "type": "internal",
+                "page": "Royal Tropical Institute"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chama Cha Mapinduzi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Methuselah Steven Gwajima"
+          }
+        }
+      ]
+    }
+  ]
+}

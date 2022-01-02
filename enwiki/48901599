@@ -1,0 +1,196 @@
+{
+  "title": "Philip Mpango",
+  "pageID": 48901599,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Chama Cha Mapinduzi MPs",
+    "Finance Ministers of Tanzania",
+    "Tanzanian MPs 2015–2020",
+    "Nominated Tanzanian MPs",
+    "Tanzanian economists",
+    "University of Dar es Salaam alumni",
+    "People from Kigoma Region",
+    "Vice-presidents of Tanzania",
+    "20th-century economists",
+    "21st-century economists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Philip Isdor Mpango (born 14 July 1957) is a Tanzanian economist and politician who serves as the Vice-President of the United Republic of Tanzania.",
+              "links": [
+                {
+                  "text": "Tanzanian",
+                  "type": "internal",
+                  "page": "Tanzania"
+                },
+                {
+                  "text": "Vice-President",
+                  "type": "internal",
+                  "page": "Vice-President of Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Republic of Tanzania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Philip Isdor Mpango"
+                ]
+              }
+            },
+            {
+              "text": "He was sworn into office on 31 March 2021, following unanimous consent of the Tanzanian Parliament, and having been nominated by President Samia Suluhu on 30 March 2021.",
+              "links": [
+                {
+                  "text": "Tanzanian Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Samia Suluhu"
+                }
+              ]
+            },
+            {
+              "text": "Before that, he served as the Minister of Finance and Planning in the Tanzanian Cabinet, from March 2015 until 30 March 2021.",
+              "links": [
+                {
+                  "text": "Minister of Finance and Planning",
+                  "type": "internal",
+                  "page": "Minister of Finance (Tanzania)"
+                },
+                {
+                  "text": "Tanzanian Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Tanzania"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician and economist",
+          "template": "short description"
+        },
+        {
+          "date": "April 2021",
+          "template": "engvarb"
+        },
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1957",
+          "month": "07",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "11th Vice-President of Tanzania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice-President of Tanzania"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 March 2021"
+          },
+          "predecessor": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "president": {
+            "text": "Samia Suluhu"
+          },
+          "office1": {
+            "text": "15th Minister of Finance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Finance"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "November 2015"
+          },
+          "term_end1": {
+            "text": "30 March 2021"
+          },
+          "president1": {
+            "text": "John Magufuli Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Magufuli"
+              },
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Parliament of Tanzania",
+            "links": [
+              {
+                "text": "Member of the Parliament of Tanzania",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end2": {
+            "text": "2021",
+            "number": 2021
+          },
+          "appointer2": {
+            "text": "John Magufuli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Magufuli"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "None (nominated)"
+          },
+          "birth_date": {
+            "text": "July 14, 1957"
+          },
+          "nationality": {
+            "text": "Tanzanian"
+          }
+        }
+      ]
+    }
+  ]
+}
