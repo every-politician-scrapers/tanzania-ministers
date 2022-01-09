@@ -46,7 +46,7 @@
               }
             },
             {
-              "text": "At present, he is the Minister for Lands, Housing and Human Settlement Development."
+              "text": "former Minister for Lands, Housing and Human Settlement Development."
             },
             {
               "text": "He completed Masters of Arts in Political Science at Open University of Tanzania."
@@ -100,12 +100,15 @@
               {
                 "text": "Minister of Lands, Housing and Human Settlements Developments",
                 "type": "internal",
-                "page": "Ministry of Lands, Housing and Human Settlements Developments"
+                "page": "former Ministry of Lands, Housing and Human Settlements Developments"
               }
             ]
           },
           "term_start": {
             "text": "24 January 2015"
+          },
+          "term_end": {
+            "text": "8 January,2022"
           },
           "predecessor": {
             "text": "Anna Tibaijuka",
@@ -115,6 +118,9 @@
                 "page": "Anna Tibaijuka"
               }
             ]
+          },
+          "successor": {
+            "text": "Dkt. Angela Mabulla"
           },
           "office2": {
             "text": "State Minister in the PM's Office for Policy, Co-ordination and Parliamentary Affairs"
