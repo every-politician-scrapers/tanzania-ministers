@@ -23,11 +23,6 @@
               "text": "Dorothy Onesphoro Gwajima also known Gwajima Dorothy is a Tanzanian CCM politician and a nominated cabinet member since 2020.",
               "links": [
                 {
-                  "text": "Tanzanian",
-                  "type": "internal",
-                  "page": "Tanzania"
-                },
-                {
                   "text": "CCM",
                   "type": "internal",
                   "page": "Chama Cha Mapinduzi"
@@ -40,7 +35,7 @@
               }
             },
             {
-              "text": "She was appointed by President John Magufuli into the Magufuli cabinet and still presenlty serves as a Minister of Health, Community Development, Gender, Elders and Children under Suluhu Cabinet.",
+              "text": "She was appointed by President John Magufuli into the Magufuli cabinet as the Minister of Health, Community Development, Gender, Elders and Children.",
               "links": [
                 {
                   "text": "President",
@@ -54,10 +49,15 @@
                 {
                   "type": "internal",
                   "page": "Magufuli cabinet"
-                },
+                }
+              ]
+            },
+            {
+              "text": "She continued in this role following the death of John Magufuli, however, in January 2022 the ministry was split and she became the new Minister of Community Development and Gender.",
+              "links": [
                 {
                   "type": "internal",
-                  "page": "Suluhu Cabinet"
+                  "page": "John Magufuli"
                 }
               ]
             }
@@ -66,7 +66,7 @@
         {
           "sentences": [
             {
-              "text": "She became widely known after announcing that Tanzania did not plan to order any Covid-19 vaccines and promoting steam inhalation as a cure against the virus, along with a vegetable smoothie recipe and other cures, similiarily to the claims of President Magufuli.",
+              "text": "She became widely known after announcing that Tanzania did not plan to order any Covid-19 vaccines and promoting steam inhalation as a cure against the virus, along with a vegetable smoothie recipe and other cures, in line with President Magufuli's claims.",
               "links": [
                 {
                   "text": "did not plan",
@@ -126,22 +126,56 @@
             ]
           },
           "office": {
-            "text": "Minister of Community Development"
+            "text": "Minister of Community Development & Gender"
           },
           "term_start": {
-            "text": "January 2022"
+            "text": "10 January 2022"
           },
           "president": {
-            "text": "John Magufuli",
+            "text": "Samia Suluhu",
             "links": [
               {
                 "type": "internal",
-                "page": "John Magufuli"
+                "page": "Samia Suluhu"
               }
             ]
           },
           "predecessor": {
+            "text": "Position Established"
+          },
+          "office1": {
+            "text": "Minister of Health, Community Development, Gender, Seniors and Children"
+          },
+          "term_start1": {
+            "text": "5 December 2020"
+          },
+          "term_end1": {
+            "text": "8 January 2022"
+          },
+          "president1": {
+            "text": "John Magufuli (2020) Samia Suluhu (2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Magufuli"
+              },
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "predecessor1": {
             "text": "Ummy Mwalimu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ummy Mwalimu"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ummy Mwalimu Ministry split",
             "links": [
               {
                 "type": "internal",

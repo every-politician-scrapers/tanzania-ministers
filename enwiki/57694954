@@ -110,11 +110,15 @@
             "text": "9 January 2019"
           },
           "president": {
-            "text": "John Magufuli",
+            "text": "John Magufuli (2019-2021) Samia Suluhu (2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "John Magufuli"
+              },
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
               }
             ]
           },

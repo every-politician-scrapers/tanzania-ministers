@@ -21,11 +21,6 @@
               "text": "Dr. Ashatu Kijaji (born 26 April 1976), is a Tanzanian academic and politician belonging to the ruling Chama Cha Mapinduzi (CCM) party.",
               "links": [
                 {
-                  "text": "Tanzanian",
-                  "type": "internal",
-                  "page": "Tanzania"
-                },
-                {
                   "type": "internal",
                   "page": "Chama Cha Mapinduzi"
                 }
@@ -44,6 +39,9 @@
                   "page": "Member of Parliament"
                 }
               ]
+            },
+            {
+              "text": "She was appointed Minister for investment, trade and industry in January 2022."
             }
           ]
         }
@@ -85,6 +83,30 @@
               }
             ]
           },
+          "office": {
+            "text": "Minister of Industry, Trade & Investment"
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "president": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Geofrey Mwambe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geofrey Mwambe"
+              }
+            ]
+          },
           "office1": {
             "text": "Minister of Communication & ICT",
             "links": [
@@ -98,6 +120,9 @@
           "term_start1": {
             "text": "12 September 2021"
           },
+          "term_end1": {
+            "text": "8 January 2022"
+          },
           "president1": {
             "text": "Samia Suluhu",
             "links": [
@@ -107,12 +132,21 @@
               }
             ]
           },
-          "minister1": {
+          "predecessor1": {
             "text": "Faustine Ndugulile",
             "links": [
               {
                 "type": "internal",
                 "page": "Faustine Ndugulile"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Nape Nnauye",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nape Nnauye"
               }
             ]
           },

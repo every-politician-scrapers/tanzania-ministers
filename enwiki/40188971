@@ -27,13 +27,6 @@
           "sentences": [
             {
               "text": "Liberata Mulamula, née Rutageruka (born 1956) is a Tanzanian diplomat and politician presently serving as Minister for Foreign Affairs and East African Cooperation since April 2021.",
-              "links": [
-                {
-                  "text": "Tanzanian",
-                  "type": "internal",
-                  "page": "Tanzania"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Liberata Mulamula",
@@ -66,7 +59,7 @@
               "text": "Ambassador Mulamula has a 35+ year history as a diplomat and administrator in the Tanzanian Ministry of Foreign Affairs and Regional Cooperation, including as Tanzania's ambassador to the United Nations in New York City, Canada and the United States of America.",
               "links": [
                 {
-                  "text": " Tanzanian Ministry of Foreign Affairs and Regional Cooperation",
+                  "text": "Tanzanian Ministry of Foreign Affairs and Regional Cooperation",
                   "type": "internal",
                   "page": "Ministry of Foreign Affairs (Tanzania)"
                 },
