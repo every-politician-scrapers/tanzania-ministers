@@ -23,11 +23,6 @@
               "text": "George Boniface Taguluvala Simbachawene (born 5 July 1968) is a Tanzanian CCM politician and Member of Parliament for Kibakwe constituency since 2005.",
               "links": [
                 {
-                  "text": "Tanzanian",
-                  "type": "internal",
-                  "page": "Tanzania"
-                },
-                {
                   "text": "CCM",
                   "type": "internal",
                   "page": "Chama Cha Mapinduzi"
@@ -55,7 +50,7 @@
               "text": "He held the post of the Minister of State in the President’s Office responsible for Regional Administration, Local Government, Civil Service and Good Governance from November 2015 to September 2017."
             },
             {
-              "text": "He resigned from his post on September 7 2017 after his name was implicated in the Minerals report from his time in the Ministry of Energy and Minerals."
+              "text": "He resigned from his post on September 7, 2017 after his name was implicated in the Minerals report from his time in the Ministry of Energy and Minerals."
             }
           ]
         },
@@ -65,7 +60,7 @@
               "text": "On 21 July 2019, he is assigned as the Minister of State in the Vice President's Office."
             },
             {
-              "text": "On January 23, 2020 he was appointed as the Minister of Home Affairs.",
+              "text": "On January 23, 2020 he was appointed as the Minister of Home Affairs. On 10 January 2022 he was sworn in as the new Minister for Legal and Constitutional Affairs.",
               "links": [
                 {
                   "text": "Minister of Home Affairs.",
@@ -115,7 +110,39 @@
             ]
           },
           "office": {
-            "text": "Minister of Home Affairs",
+            "text": "Minister of Constitutional Affairs and Justice",
+            "links": [
+              {
+                "text": "Minister of Constitutional Affairs and Justice",
+                "type": "internal",
+                "page": "Ministry of Constitutional and Legal Affairs"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "president": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Palamagamba Kabudi",
+            "links": [
+              {
+                "text": "Palamagamba Kabudi",
+                "type": "internal",
+                "page": "Palamagamba John Aidan Mwaluko Kabudi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "25th Minister of Home Affairs",
             "links": [
               {
                 "text": "Minister of Home Affairs",
@@ -124,19 +151,26 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "23 January 2020"
           },
-          "president": {
-            "text": "John Pombe Magufuli",
+          "term_end1": {
+            "text": "8 January 2022"
+          },
+          "president1": {
+            "text": "John Pombe Magufuli (2020) Samia Suluhu (2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "John Pombe Magufuli"
+              },
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Alphaxard Lugola",
             "links": [
               {
@@ -145,41 +179,23 @@
               }
             ]
           },
-          "office1": {
-            "text": "Minister of State in the\nVice President's Office"
-          },
-          "term_start1": {
-            "text": "21 July 2019"
-          },
-          "term_end1": {
-            "text": "23 January 2020"
-          },
-          "president1": {
-            "text": "John Pombe Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Pombe Magufuli"
-              }
-            ]
-          },
           "successor1": {
-            "text": "Mussa Zungu",
+            "text": "Hamad Masauni",
             "links": [
               {
                 "type": "internal",
-                "page": "Mussa Zungu"
+                "page": "Hamad Masauni"
               }
             ]
           },
           "office2": {
-            "text": "Minister of State in the President’s Office"
+            "text": "Minister of State in the\nVice President's Office"
           },
           "term_start2": {
-            "text": "12 December 2015"
+            "text": "21 July 2019"
           },
           "term_end2": {
-            "text": "7 September 2017"
+            "text": "23 January 2020"
           },
           "president2": {
             "text": "John Pombe Magufuli",
@@ -190,7 +206,34 @@
               }
             ]
           },
-          "alongside2": {
+          "successor2": {
+            "text": "Mussa Zungu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mussa Zungu"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of State in the President’s Office"
+          },
+          "term_start3": {
+            "text": "12 December 2015"
+          },
+          "term_end3": {
+            "text": "7 September 2017"
+          },
+          "president3": {
+            "text": "John Pombe Magufuli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Pombe Magufuli"
+              }
+            ]
+          },
+          "alongside3": {
             "text": "Angellah Kairuki",
             "links": [
               {
@@ -199,7 +242,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "George Mkuchika",
             "links": [
               {
@@ -208,7 +251,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Minister of Energy and Minerals",
             "links": [
               {
@@ -218,13 +261,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "24 January 2015"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "5 November 2015"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Sospeter Muhongo",
             "links": [
               {
@@ -233,7 +276,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Sospeter Muhongo",
             "links": [
               {
@@ -242,7 +285,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Member of Parliament for Kibakwe",
             "links": [
               {
@@ -256,10 +299,10 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "December 2005"
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Daimon Mwaga"
           },
           "birth_date": {

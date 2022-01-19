@@ -1,0 +1,130 @@
+{
+  "title": "Eliezer Feleshi",
+  "pageID": 69805191,
+  "categories": [
+    "Living people",
+    "Tanzanian judges",
+    "Attorneys General of Tanzania",
+    "Tanzanian MPs 2020–2025",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Professor Eliezer Mbuki Feleshi is the current Attorney General of Tanzania and is the 10th Attorney General of Tanzania since the country's independence in 1961.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Tanzania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eliezer Mbuki Feleshi"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed as the new Attorney General following the Suluhu Cabinet reshuffle in September 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Suluhu Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Before being the Attorney General, Dr Feleshi was the principal judge of the High Court of Tanzania since 2018."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Hon. Justice Dr.",
+            "links": [
+              {
+                "text": "Hon.",
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Eliezer Mbuki Feleshi"
+          },
+          "order": {
+            "text": "10th"
+          },
+          "office": {
+            "text": "Attorney General of Tanzania"
+          },
+          "term_start": {
+            "text": "13 September 2021"
+          },
+          "predecessor": {
+            "text": "Adelardus Kilangi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adelardus Kilangi"
+              }
+            ]
+          },
+          "president": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Ex officio member",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ex officio member"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Ex officio member"
+              ]
+            }
+          },
+          "birth_place": {
+            "text": "Tanzania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tanzania"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Tanzanian",
+            "links": [
+              {
+                "text": "Tanzanian",
+                "type": "internal",
+                "page": "Tanzania"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

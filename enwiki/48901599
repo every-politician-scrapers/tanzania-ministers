@@ -26,11 +26,6 @@
               "text": "Philip Isdor Mpango (born 14 July 1957) is a Tanzanian economist and politician who serves as the Vice-President of the United Republic of Tanzania.",
               "links": [
                 {
-                  "text": "Tanzanian",
-                  "type": "internal",
-                  "page": "Tanzania"
-                },
-                {
                   "text": "Vice-President",
                   "type": "internal",
                   "page": "Vice-President of Tanzania"
@@ -101,6 +96,9 @@
       ],
       "infoboxes": [
         {
+          "image": {
+            "text": "Dr Philip Mpango.jpg"
+          },
           "office": {
             "text": "11th Vice-President of Tanzania",
             "links": [

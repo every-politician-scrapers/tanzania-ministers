@@ -24,14 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Adolf Faustine Mkenda (born in 1963 Rombo, Kilimanjaro), is a Tanzanian Minister of Agriculture.",
-              "links": [
-                {
-                  "text": "Tanzanian",
-                  "type": "internal",
-                  "page": "Tanzania"
-                }
-              ],
+              "text": "Adolf Faustine Mkenda (born in 1963 Rombo, Kilimanjaro), is a Tanzanian Minister of Education, Science and Technology, having previously served as Minister of Agriculture.",
               "formatting": {
                 "bold": [
                   "Adolf Faustine Mkenda"
@@ -90,6 +83,37 @@
             ]
           },
           "office": {
+            "text": "Minister of Education, Science, Technology and Vocational Training",
+            "links": [
+              {
+                "text": "Minister of Education, Science, Technology and Vocational Training",
+                "type": "internal",
+                "page": "Ministry of Education and Vocational Training"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "president": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Joyce Ndalichako",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joyce Ndalichako"
+              }
+            ]
+          },
+          "office1": {
             "text": "Minister of Agriculture",
             "links": [
               {
@@ -99,24 +123,41 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "6 December 2020"
           },
-          "president": {
-            "text": "John Magufuli",
+          "term_end1": {
+            "text": "10 January 2022"
+          },
+          "president1": {
+            "text": "John Magufuli (2020) Samia Suluhu (2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "John Magufuli"
+              },
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Japhet Hasunga",
             "links": [
               {
                 "type": "internal",
                 "page": "Japhet Hasunga"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Hussein Bashe",
+            "links": [
+              {
+                "text": "Hussein Bashe",
+                "type": "internal",
+                "page": "Hussein Mohamed Bashe"
               }
             ]
           },

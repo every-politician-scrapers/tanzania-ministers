@@ -1,0 +1,181 @@
+{
+  "title": "Angeline Mabula",
+  "pageID": 52015654,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Chama Cha Mapinduzi MPs",
+    "Tanzanian MPs 2015–2020",
+    "Tanzanian MPs 2020–2025",
+    "Chama Cha Mapinduzi politicians",
+    "Deputy government ministers of Tanzania",
+    "Open University of Tanzania alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Angeline Mabula (born 6 May 1962) is a Tanzanian politician belonging to the ruling Chama Cha Mapinduzi (CCM) party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chama Cha Mapinduzi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Angeline Mabula"
+                ]
+              }
+            },
+            {
+              "text": "She is the current Minister of lands and human settlement development."
+            },
+            {
+              "text": "She is a Member of Parliament for Ilemela.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "05",
+          "day": "06",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honorable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Angeline Mabula"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Lands and Human Settlement Development",
+            "links": [
+              {
+                "text": "Minister of Lands and Human Settlement Development",
+                "type": "internal",
+                "page": "Ministry of Lands, Housing and Human Settlements Developments"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 January 2022"
+          },
+          "president": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Ridhiwani Kikwete",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ridhiwani Kikwete"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "William Lukuvi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "William Lukuvi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 2022"
+          },
+          "constituency3": {
+            "text": "Ilemela"
+          },
+          "predecessor3": {
+            "text": "Highness Kiwia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Highness Kiwia"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 6, 1962"
+          },
+          "nationality": {
+            "text": "Tanzanian"
+          },
+          "party": {
+            "text": "CCM",
+            "links": [
+              {
+                "text": "CCM",
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Open University of Tanzania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Open University of Tanzania"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
