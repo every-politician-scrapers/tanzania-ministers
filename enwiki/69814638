@@ -1,0 +1,205 @@
+{
+  "title": "Mohamed Mchengerwa",
+  "pageID": 69814638,
+  "categories": [
+    "1979 births",
+    "Living people",
+    "Chama Cha Mapinduzi politicians",
+    "Tanzanian MPs 2015–2020",
+    "Tanzanian MPs 2020–2025"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohamed Mchengerwa (born September 1, 1979) is the current Minister of Culture, Artists and Sports in Tanzania.",
+              "formatting": {
+                "bold": [
+                  "Mohamed Mchengerwa"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Chama Cha Mapinduzi political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chama Cha Mapinduzi"
+                }
+              ]
+            },
+            {
+              "text": "He was elected MP representing Rufiji in 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1979",
+          "month": "09",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mohamed Omary Mchengerwa"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Culture, Artists and Sports"
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "president": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Innocent Bashungwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Innocent Bashungwa"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Ministers of State in the President’s Office"
+          },
+          "term_start1": {
+            "text": "31 March 2021"
+          },
+          "term_end1": {
+            "text": "8 January 2022"
+          },
+          "president1": {
+            "text": "Samia Suluhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "George Mkuchika, Ummy Mwalimu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "George Mkuchika"
+              },
+              {
+                "type": "internal",
+                "page": "Ummy Mwalimu"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Kitila Mkumbo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kitila Mkumbo"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Innocent Bashungwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Innocent Bashungwa"
+              }
+            ]
+          },
+          "office2": {
+            "text": "The Member of Parliament\nfor Rufiji",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament"
+              },
+              {
+                "text": "Rufiji",
+                "type": "internal",
+                "page": "Rufiji District"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 2015"
+          },
+          "birth_date": {
+            "text": "September 1, 1979"
+          },
+          "nationality": {
+            "text": "Tanzanian"
+          },
+          "party": {
+            "text": "CCM",
+            "links": [
+              {
+                "text": "CCM",
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Kampala International University (LLB)\nUniversity of Dar es Salaam (LLM)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kampala International University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Dar es Salaam"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
