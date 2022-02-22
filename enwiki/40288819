@@ -19,6 +19,12 @@
           "sentences": [
             {
               "text": "Stergomena Lawrence Tax (born 6 July 1960) is Tanzania's Minister for Defence and National Service.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tanzania"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Stergomena Lawrence Tax"
