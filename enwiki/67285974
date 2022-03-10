@@ -1,177 +1,19 @@
 {
-  "title": "Mashimba Ndaki",
-  "pageID": 67285974,
-  "categories": [
-    "Living people",
-    "1962 births",
-    "Tanzanian men",
-    "Chama Cha Mapinduzi MPs",
-    "Chama Cha Mapinduzi politicians",
-    "Government ministers of Tanzania",
-    "Tanzanian MPs 2020–2025",
-    "University of Dar es Salaam alumni",
-    "Open University of Tanzania alumni",
-    "Southern New Hampshire University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mashimba Mashauri Ndaki is a Tanzanian CCM politician and Minister of Livestock and Fisheries since 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tanzanian"
-                },
-                {
-                  "text": "CCM",
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mashimba Mashauri Ndaki"
-                ]
-              }
-            },
-            {
-              "text": "He has served as Member of Parliament representing Maswa West in Simiyu Region since October 2015."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1962",
-          "month": "11",
-          "day": "7",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Honorable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honorable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mashimba Ndaki"
-          },
-          "honorific_suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Livestock and Fisheries"
-          },
-          "term_start": {
-            "text": "December 2020"
-          },
-          "predecessor": {
-            "text": "Luhaga Mpina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luhaga Mpina"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 October 2015"
-          },
-          "president2": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Maswa West"
-          },
-          "birth_date": {
-            "text": "November 7, 1962"
-          },
-          "birth_place": {
-            "text": "Maswa, Simiyu Region"
-          },
-          "nationality": {
-            "text": "Tanzanian",
-            "links": [
-              {
-                "text": "Tanzanian",
-                "type": "internal",
-                "page": "Tanzania"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Tanzanian"
-          },
-          "education": {
-            "text": "Isanga Primary School, Buluba Secondary School, Songea Boys Secondary School"
-          },
-          "alma_mater": {
-            "text": "University of Dar es Salaam (BA) Open University of Tanzania - Southern New Hampshire University (MA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Dar es Salaam"
-              },
-              {
-                "type": "internal",
-                "page": "Open University of Tanzania"
-              },
-              {
-                "type": "internal",
-                "page": "Southern New Hampshire University"
-              }
-            ]
-          },
-          "party": {
-            "text": "Chama Cha Mapinduzi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Honorable",
+  "name": "Mashimba Ndaki",
+  "honorific_suffix": "MP",
+  "office": "Minister of Livestock and Fisheries",
+  "term_start": "December 2020",
+  "predecessor": "Luhaga Mpina",
+  "office2": "Member of Parliament",
+  "term_start2": "29 October 2015",
+  "president2": "John Magufuli",
+  "constituency2": "Maswa West",
+  "birth_date": "November 7, 1962",
+  "birth_place": "Maswa, Simiyu Region",
+  "nationality": "Tanzanian",
+  "citizenship": "Tanzanian",
+  "education": "Isanga Primary School, Buluba Secondary School, Songea Boys Secondary School",
+  "alma_mater": "University of Dar es Salaam (BA) Open University of Tanzania - Southern New Hampshire University (MA)",
+  "party": "Chama Cha Mapinduzi"
 }

@@ -1,295 +1,35 @@
 {
-  "title": "Kassim Majaliwa",
-  "pageID": 38631494,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "Prime Ministers of Tanzania",
-    "Chama Cha Mapinduzi MPs",
-    "Tanzanian MPs 2010–2015",
-    "Tanzanian MPs 2015–2020",
-    "Tanzanian MPs 2020–2025",
-    "Deputy government ministers of Tanzania",
-    "Kigonsera Secondary School alumni",
-    "University of Dar es Salaam alumni",
-    "Tanzanian schoolteachers",
-    "Tanzanian Muslims"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kassim Majaliwa Majaliwa (born 22 December 1961) is a Tanzanian politician who has been Prime Minister of Tanzania since 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Tanzania"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kassim Majaliwa Majaliwa"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed by President John Magufuli after the 2015 general election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "John Magufuli"
-                },
-                {
-                  "text": "2015 general election",
-                  "type": "internal",
-                  "page": "2015 Tanzanian general election"
-                }
-              ]
-            },
-            {
-              "text": "He is a member of the ruling Chama Cha Mapinduzi party and has been a Member of Parliament for Ruangwa constituency since 2010.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ruangwa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Prime Minister of Tanzania",
-          "template": "short description"
-        },
-        {
-          "year": "1961",
-          "month": "12",
-          "day": "22",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Kassim Majaliwa"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Kassim Majaliwa.jpg"
-          },
-          "order": {
-            "text": "10th"
-          },
-          "office": {
-            "text": "Prime Minister of Tanzania"
-          },
-          "term_start": {
-            "text": "20 November 2015"
-          },
-          "president": {
-            "text": "John Magufuli\nSamia Suluhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              },
-              {
-                "type": "internal",
-                "page": "Samia Suluhu"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Mizengo Pinda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mizengo Pinda"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Minister of State for Regional Administration and Local Government"
-          },
-          "term_start1": {
-            "text": "November 2010"
-          },
-          "term_end1": {
-            "text": "5 November 2015"
-          },
-          "president1": {
-            "text": "Jakaya Kikwete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakaya Kikwete"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mizengo Pinda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mizengo Pinda"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Parliament\nfor Ruangwa",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              },
-              {
-                "type": "internal",
-                "page": "Ruangwa"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "November 2010"
-          },
-          "office3": {
-            "text": "District Commissioner for Urambo"
-          },
-          "term_start3": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "president3": {
-            "text": "Jakaya Kikwete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakaya Kikwete"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 22, 1961"
-          },
-          "birth_place": {
-            "text": "Ruangwa District, Lindi Region, Tanganyika (now Tanzania)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ruangwa District"
-              },
-              {
-                "type": "internal",
-                "page": "Lindi Region"
-              },
-              {
-                "text": "Tanganyika",
-                "type": "internal",
-                "page": "Tanganyika Territory"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mary"
-          },
-          "alma_mater": {
-            "text": "The Mtwara TTC\nThe University of Dar es Salaam\nThe Stockholm University (PGDP)",
-            "links": [
-              {
-                "text": "TTC",
-                "type": "internal",
-                "page": "Teacher training college"
-              },
-              {
-                "type": "internal",
-                "page": "University of Dar es Salaam"
-              },
-              {
-                "type": "internal",
-                "page": "Stockholm University"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Teacher (1988–2000)"
-          },
-          "allegiance": {
-            "text": "🇹🇿 Tanzania"
-          },
-          "branch": {
-            "text": "National Service",
-            "links": [
-              {
-                "text": "National Service",
-                "type": "internal",
-                "page": "National Service (Tanzania)"
-              }
-            ]
-          },
-          "military_blank1": {
-            "text": "Military camp"
-          },
-          "military_data1": {
-            "text": "Makutopora JKT"
-          },
-          "military_blank2": {
-            "text": "Duration"
-          },
-          "military_data2": {
-            "text": "1 year"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Right Honourable",
+  "name": "Kassim Majaliwa",
+  "honorific-suffix": "MP",
+  "image": "Kassim Majaliwa.jpg",
+  "order": "10th",
+  "office": "Prime Minister of Tanzania",
+  "term_start": "20 November 2015",
+  "president": "John Magufuli\nSamia Suluhu",
+  "predecessor": "Mizengo Pinda",
+  "office1": "Deputy Minister of State for Regional Administration and Local Government",
+  "term_start1": "November 2010",
+  "term_end1": "5 November 2015",
+  "president1": "Jakaya Kikwete",
+  "primeminister1": "Mizengo Pinda",
+  "office2": "Member of Parliament\nfor Ruangwa",
+  "term_start2": "November 2010",
+  "office3": "District Commissioner for Urambo",
+  "term_start3": "2006",
+  "term_end3": "2010",
+  "president3": "Jakaya Kikwete",
+  "birth_date": "December 22, 1961",
+  "birth_place": "Ruangwa District, Lindi Region, Tanganyika (now Tanzania)",
+  "nationality": "Tanzanian",
+  "party": "CCM",
+  "spouse": "Mary",
+  "alma_mater": "The Mtwara TTC\nThe University of Dar es Salaam\nThe Stockholm University (PGDP)",
+  "profession": "Teacher (1988–2000)",
+  "allegiance": "🇹🇿 Tanzania",
+  "branch": "National Service",
+  "military_blank1": "Military camp",
+  "military_data1": "Makutopora JKT",
+  "military_blank2": "Duration",
+  "military_data2": "1 year"
 }

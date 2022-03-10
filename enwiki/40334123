@@ -1,293 +1,34 @@
 {
-  "title": "Nape Nnauye",
-  "pageID": 40334123,
-  "categories": [
-    "Living people",
-    "Tanzanian MPs 2015–2020",
-    "Tanzanian MPs 2020–2025",
-    "21st-century Tanzanian politicians",
-    "Chama Cha Mapinduzi politicians",
-    "Bangalore University alumni",
-    "Mzumbe University alumni",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nape Moses Nnauye is a Tanzanian politician presently serving as the Chama Cha Mapinduzi's Member of Parliament and for Mtama constituency since November 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nape Moses Nnauye"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was elected as a Member of Parliament for Mtama constituency in the October 2015 general election and was thereafter appointed by President John Magufuli as the Minister of Information, Culture, Artists and Sports in December 2015.",
-              "links": [
-                {
-                  "text": "October 2015 general election",
-                  "type": "internal",
-                  "page": "2015 Tanzanian parliamentary election"
-                }
-              ]
-            },
-            {
-              "text": "He was relieved of his duty in a mini cabinet reshuffle by the president on 23 March 2017 and was replaced by Harrison Mwakyembe.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Harrison Mwakyembe"
-                }
-              ]
-            },
-            {
-              "text": "In January 2022, he was appointed Minister for information, communications and information technology."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1977",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Nape Moses Nnauye"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Nape Nnauye.jpg"
-          },
-          "office": {
-            "text": "Minister of Information, Communication & ICT",
-            "links": [
-              {
-                "text": "Minister of Information, Communication & ICT",
-                "type": "internal",
-                "page": "Ministry of Communication, Science and Technology"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 January 2022"
-          },
-          "president": {
-            "text": "Samia Suluhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samia Suluhu"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ashatu Kijaji",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ashatu Kijaji"
-              }
-            ]
-          },
-          "office1": {
-            "text": "The Minister of Information, Culture,\nArtists and Sports"
-          },
-          "term_start1": {
-            "text": "12 December 2015"
-          },
-          "term_end1": {
-            "text": "23 March 2017"
-          },
-          "president1": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Fenella Mukangara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fenella Mukangara"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Harrison Mwakyembe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Harrison Mwakyembe"
-              }
-            ]
-          },
-          "office2": {
-            "text": "The Member of Parliament\nfor Mtama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament"
-              },
-              {
-                "type": "internal",
-                "page": "Mtama"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "November 2015"
-          },
-          "predecessor2": {
-            "text": "Bernard Membe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bernard Membe"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chama Cha Mapinduzi The Secretary\nfor Ideology and Publicity",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "April 2011"
-          },
-          "term_end3": {
-            "text": "13 December 2016"
-          },
-          "predecessor3": {
-            "text": "Kingunge Ngombale–Mwiru",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kingunge Ngombale–Mwiru"
-              }
-            ]
-          },
-          "1blankname3": {
-            "text": "Chairman"
-          },
-          "1namedata3": {
-            "text": "Jakaya Kikwete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakaya Kikwete"
-              }
-            ]
-          },
-          "office4": {
-            "text": "The District Commissioner for Masasi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masasi"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "10 September 2010"
-          },
-          "term_end4": {
-            "text": "April 2011"
-          },
-          "president4": {
-            "text": "Jakaya Kikwete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakaya Kikwete"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "c. undefined 1977 (age 45)"
-          },
-          "birth_place": {
-            "text": "Mwanza"
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "The Bangalore University (BA)\nThe Mzumbe University (MPA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bangalore University"
-              },
-              {
-                "type": "internal",
-                "page": "Mzumbe University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Honourable",
+  "name": "Nape Moses Nnauye",
+  "honorific-suffix": "MP",
+  "image": "Nape Nnauye.jpg",
+  "office": "Minister of Information, Communication & ICT",
+  "term_start": "10 January 2022",
+  "president": "Samia Suluhu",
+  "predecessor": "Ashatu Kijaji",
+  "office1": "The Minister of Information, Culture,\nArtists and Sports",
+  "term_start1": "12 December 2015",
+  "term_end1": "23 March 2017",
+  "president1": "John Magufuli",
+  "predecessor1": "Fenella Mukangara",
+  "successor1": "Harrison Mwakyembe",
+  "office2": "The Member of Parliament\nfor Mtama",
+  "term_start2": "November 2015",
+  "predecessor2": "Bernard Membe",
+  "office3": "Chama Cha Mapinduzi The Secretary\nfor Ideology and Publicity",
+  "term_start3": "April 2011",
+  "term_end3": "13 December 2016",
+  "predecessor3": "Kingunge Ngombale–Mwiru",
+  "1blankname3": "Chairman",
+  "1namedata3": "Jakaya Kikwete",
+  "office4": "The District Commissioner for Masasi",
+  "term_start4": "10 September 2010",
+  "term_end4": "April 2011",
+  "president4": "Jakaya Kikwete",
+  "birth_date": "c. undefined 1977 (age 45)",
+  "birth_place": "Mwanza",
+  "nationality": "Tanzanian",
+  "party": "CCM",
+  "alma_mater": "The Bangalore University (BA)\nThe Mzumbe University (MPA)"
 }

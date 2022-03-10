@@ -1,368 +1,46 @@
 {
-  "title": "Makame Mbarawa",
-  "pageID": 38585956,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "Chama Cha Mapinduzi MPs",
-    "Tanzanian MPs 2010–2015",
-    "Tanzanian MPs 2015–2020",
-    "Nominated Tanzanian MPs",
-    "Government ministers of Tanzania",
-    "University of New South Wales alumni",
-    "Tshwane University of Technology faculty",
-    "Chama Cha Mapinduzi politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Professor Makame Mbarawa is a Tanzanian CCM politician and a nominated Member of Parliament.",
-              "links": [
-                {
-                  "text": "CCM",
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Professor Makame Mbarawa"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He served as the Minister of Communication, Science & Technology from 2010 to 2015."
-            },
-            {
-              "text": "He thereafter served as the Minister of Water and Irrigation in the Magufuli administration for eleven days before being transferred to head the infrastructure docket."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1961",
-          "month": "02",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Makame Mbarawa"
-          },
-          "image": {
-            "text": "Makame Mbarawa IAEA.png"
-          },
-          "office": {
-            "text": "Ministry of Works & Transport",
-            "links": [
-              {
-                "text": "Ministry of Works & Transport",
-                "type": "internal",
-                "page": "Ministry of Works, Transport and Communications"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "12 September 2021"
-          },
-          "president": {
-            "text": "Samia Suluhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samia Suluhu"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Leonard Chamuriho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leonard Chamuriho"
-              }
-            ]
-          },
-          "order1": {
-            "text": "8th & 11th"
-          },
-          "office1": {
-            "text": "Minister of Water and Irrigation"
-          },
-          "term_start1": {
-            "text": "1 July 2018"
-          },
-          "term_end1": {
-            "text": "16 June 2020"
-          },
-          "president1": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Isack Aloyce Kamwelwe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isack Aloyce Kamwelwe"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Jumaa Hamidu Aweso",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jumaa Hamidu Aweso"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "12 December 2015"
-          },
-          "term_end2": {
-            "text": "23 December 2015"
-          },
-          "president2": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Jumanne Maghembe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jumanne Maghembe"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Gerson Lwenge",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gerson Lwenge"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Works, Transport and Communication"
-          },
-          "term_start3": {
-            "text": "23 December 2015"
-          },
-          "term_end3": {
-            "text": "1 July 2018"
-          },
-          "president3": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Isack Aloyce Kamwelwe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isack Aloyce Kamwelwe"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Communication, Science and Technology",
-            "links": [
-              {
-                "text": "Minister of Communication, Science and Technology",
-                "type": "internal",
-                "page": "Ministry of Communication, Science and Technology"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "December 2010"
-          },
-          "term_end4": {
-            "text": "5 November 2015"
-          },
-          "president4": {
-            "text": "Jakaya Kikwete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakaya Kikwete"
-              }
-            ]
-          },
-          "1blankname4": {
-            "text": "Deputy"
-          },
-          "1namedata4": {
-            "text": "January Makamba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "January Makamba"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Peter Msolla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Peter Msolla"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Dr. Joyce Ndalichako (Education, Science, Technology and Vocational Training)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joyce Ndalichako"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "November 2010"
-          },
-          "appointer5": {
-            "text": "Jakaya Kikwete John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jakaya Kikwete"
-              },
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "None (Nominated MP)"
-          },
-          "birth_date": {
-            "text": "February 12, 1961"
-          },
-          "birth_place": {
-            "text": "Pemba, Zanzibar",
-            "links": [
-              {
-                "text": "Pemba",
-                "type": "internal",
-                "page": "Pemba Island"
-              },
-              {
-                "text": "Zanzibar",
-                "type": "internal",
-                "page": "Sultanate of Zanzibar"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Astrakhan State Technical University (MSc) University of New South Wales (PhD)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Astrakhan State Technical University"
-              },
-              {
-                "type": "internal",
-                "page": "University of New South Wales"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Professor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Professor"
-              }
-            ]
-          },
-          "blank1": {
-            "text": "Positions"
-          },
-          "data1": {
-            "text": "Professor, Tshwane University of Technology (2009-2010)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tshwane University of Technology"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Makame Mbarawa",
+  "image": "Makame Mbarawa IAEA.png",
+  "office": "Ministry of Works & Transport",
+  "term_start": "12 September 2021",
+  "president": "Samia Suluhu",
+  "predecessor": "Leonard Chamuriho",
+  "order1": "8th & 11th",
+  "office1": "Minister of Water and Irrigation",
+  "term_start1": "1 July 2018",
+  "term_end1": "16 June 2020",
+  "president1": "John Magufuli",
+  "predecessor1": "Isack Aloyce Kamwelwe",
+  "successor1": "Jumaa Hamidu Aweso",
+  "term_start2": "12 December 2015",
+  "term_end2": "23 December 2015",
+  "president2": "John Magufuli",
+  "predecessor2": "Jumanne Maghembe",
+  "successor2": "Gerson Lwenge",
+  "office3": "Minister of Works, Transport and Communication",
+  "term_start3": "23 December 2015",
+  "term_end3": "1 July 2018",
+  "president3": "John Magufuli",
+  "predecessor3": "John Magufuli",
+  "successor3": "Isack Aloyce Kamwelwe",
+  "office4": "Minister of Communication, Science and Technology",
+  "term_start4": "December 2010",
+  "term_end4": "5 November 2015",
+  "president4": "Jakaya Kikwete",
+  "1blankname4": "Deputy",
+  "1namedata4": "January Makamba",
+  "predecessor4": "Peter Msolla",
+  "successor4": "Dr. Joyce Ndalichako (Education, Science, Technology and Vocational Training)",
+  "office5": "Member of Parliament",
+  "term_start5": "November 2010",
+  "appointer5": "Jakaya Kikwete John Magufuli",
+  "constituency5": "None (Nominated MP)",
+  "birth_date": "February 12, 1961",
+  "birth_place": "Pemba, Zanzibar",
+  "nationality": "Tanzanian",
+  "party": "CCM",
+  "alma_mater": "Astrakhan State Technical University (MSc) University of New South Wales (PhD)",
+  "profession": "Professor",
+  "blank1": "Positions",
+  "data1": "Professor, Tshwane University of Technology (2009-2010)"
 }

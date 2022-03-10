@@ -1,229 +1,27 @@
 {
-  "title": "Ashatu Kijaji",
-  "pageID": 52109515,
-  "categories": [
-    "1976 births",
-    "Living people",
-    "Chama Cha Mapinduzi MPs",
-    "Tanzanian MPs 2015–2020",
-    "Deputy government ministers of Tanzania",
-    "Mzumbe University alumni",
-    "University of Agder alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dr. Ashatu Kijaji (born 26 April 1976), is a Tanzanian academic and politician belonging to the ruling Chama Cha Mapinduzi (CCM) party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dr. Ashatu Kijaji"
-                ]
-              }
-            },
-            {
-              "text": "She is a Member of Parliament for Kondoa and Deputy Minister in the Ministry of Finance and Planning.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                }
-              ]
-            },
-            {
-              "text": "She was appointed Minister for investment, trade and industry in January 2022."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian academic and politician",
-          "template": "short description"
-        },
-        {
-          "year": "1976",
-          "month": "04",
-          "day": "26",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Ashatu Kijaji"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Industry, Trade & Investment"
-          },
-          "term_start": {
-            "text": "10 January 2022"
-          },
-          "president": {
-            "text": "Samia Suluhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samia Suluhu"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Geofrey Mwambe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Geofrey Mwambe"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Communication & ICT",
-            "links": [
-              {
-                "text": "Minister of Communication & ICT",
-                "type": "internal",
-                "page": "Ministry of Communication, Science and Technology"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 September 2021"
-          },
-          "term_end1": {
-            "text": "8 January 2022"
-          },
-          "president1": {
-            "text": "Samia Suluhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samia Suluhu"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Faustine Ndugulile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faustine Ndugulile"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Nape Nnauye",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nape Nnauye"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Minister of Finance and Planning"
-          },
-          "term_start2": {
-            "text": "December 2015"
-          },
-          "term_end2": {
-            "text": "September 2021"
-          },
-          "president2": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "minister2": {
-            "text": "Philip Mpango",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philip Mpango"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "November 2015"
-          },
-          "constituency3": {
-            "text": "Kondoa"
-          },
-          "birth_date": {
-            "text": "April 26, 1976"
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Mzumbe University\nUniversity of Agder",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mzumbe University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Agder"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Honourable",
+  "name": "Ashatu Kijaji",
+  "honorific-suffix": "MP",
+  "office": "Minister of Industry, Trade & Investment",
+  "term_start": "10 January 2022",
+  "president": "Samia Suluhu",
+  "predecessor": "Geofrey Mwambe",
+  "office1": "Minister of Communication & ICT",
+  "term_start1": "12 September 2021",
+  "term_end1": "8 January 2022",
+  "president1": "Samia Suluhu",
+  "predecessor1": "Faustine Ndugulile",
+  "successor1": "Nape Nnauye",
+  "office2": "Deputy Minister of Finance and Planning",
+  "term_start2": "December 2015",
+  "term_end2": "September 2021",
+  "president2": "John Magufuli",
+  "minister2": "Philip Mpango",
+  "office3": "Member of Parliament",
+  "term_start3": "November 2015",
+  "constituency3": "Kondoa",
+  "birth_date": "April 26, 1976",
+  "nationality": "Tanzanian",
+  "party": "CCM",
+  "alma_mater": "Mzumbe University\nUniversity of Agder"
 }
