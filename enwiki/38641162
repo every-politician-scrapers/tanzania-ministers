@@ -1,287 +1,36 @@
 {
-  "title": "Ummy Mwalimu",
-  "pageID": 38641162,
-  "categories": [
-    "1973 births",
-    "Living people",
-    "Chama Cha Mapinduzi MPs",
-    "Tanzanian MPs 2010–2015",
-    "Tanzanian MPs 2015–2020",
-    "Tanzanian MPs 2020–2025",
-    "Deputy government ministers of Tanzania",
-    "Usagara Secondary School alumni",
-    "Korogwe Girls Secondary School alumni",
-    "University of Dar es Salaam alumni",
-    "University of Pretoria alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ummy Ally Mwalimu (born 5 September 1973) is a Tanzanian politician belonging to the ruling Chama Cha Mapinduzi (CCM) party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ummy Ally Mwalimu"
-                ]
-              }
-            },
-            {
-              "text": "She currently a Member of Parliament for Tanga Constituency and also serves as Minister of Health, Seniors and Children."
-            },
-            {
-              "text": "She has held various cabinet positions since 2010."
-            },
-            {
-              "text": "She is a third-term Member of Parliament, firstly appointed to a seat reserved for women in the parliament of Tanzania in 2010.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Tanzania"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian politician (born 1973)",
-          "template": "short description"
-        },
-        {
-          "year": "1973",
-          "month": "09",
-          "day": "05",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Ummy Mwalimu"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Ummy Mwalimu.jpg"
-          },
-          "office": {
-            "text": "Minister of Health"
-          },
-          "term_start": {
-            "text": "10 January 2022"
-          },
-          "president": {
-            "text": "Samia Suluhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samia Suluhu"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dorothy Gwajima",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dorothy Gwajima"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of State in the Vice President’s Office (Union and Environment)"
-          },
-          "term_start2": {
-            "text": "9 December 2020"
-          },
-          "term_end2": {
-            "text": "10 January 2022"
-          },
-          "president2": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Mussa Zungu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mussa Zungu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jenista Mhagama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jenista Mhagama"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Health, Community Development, Gender, Seniors and Children"
-          },
-          "term_start3": {
-            "text": "12 December 2015"
-          },
-          "term_end3": {
-            "text": "5 November 2020"
-          },
-          "president3": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Dorothy Gwajima",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dorothy Gwajima"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Deputy State Minister of Environment"
-          },
-          "term_start4": {
-            "text": "30 January 2014"
-          },
-          "term_end4": {
-            "text": "5 November 2015"
-          },
-          "minister4": {
-            "text": "Binilith Mahenge",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Binilith Mahenge"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Charles Kitwanga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Kitwanga"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Deputy Minister of Community Development, Gender and Children",
-            "links": [
-              {
-                "text": "Deputy Minister of Community Development, Gender and Children",
-                "type": "internal",
-                "page": "Ministry of Community Development, Gender and Children"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "28 November 2010"
-          },
-          "term_end5": {
-            "text": "20 January 2014"
-          },
-          "office6": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "November 2010"
-          },
-          "constituency6": {
-            "text": "None (Special Seat)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Special Seat"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 5, 1973"
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "UDSM (LL.B) University of Pretoria (LL.M)",
-            "links": [
-              {
-                "text": "UDSM",
-                "type": "internal",
-                "page": "University of Dar es Salaam"
-              },
-              {
-                "type": "internal",
-                "page": "University of Pretoria"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Honourable",
+  "name": "Ummy Mwalimu",
+  "honorific-suffix": "MP",
+  "image": "Ummy Mwalimu.jpg",
+  "office": "Minister of Health",
+  "term_start": "10 January 2022",
+  "president": "Samia Suluhu",
+  "predecessor": "Dorothy Gwajima",
+  "office2": "Minister of State in the Vice President’s Office (Union and Environment)",
+  "term_start2": "9 December 2020",
+  "term_end2": "10 January 2022",
+  "president2": "John Magufuli",
+  "predecessor2": "Mussa Zungu",
+  "successor2": "Jenista Mhagama",
+  "office3": "Minister of Health, Community Development, Gender, Seniors and Children",
+  "term_start3": "12 December 2015",
+  "term_end3": "5 November 2020",
+  "president3": "John Magufuli",
+  "successor3": "Dorothy Gwajima",
+  "office4": "Deputy State Minister of Environment",
+  "term_start4": "30 January 2014",
+  "term_end4": "5 November 2015",
+  "minister4": "Binilith Mahenge",
+  "predecessor4": "Charles Kitwanga",
+  "office5": "Deputy Minister of Community Development, Gender and Children",
+  "term_start5": "28 November 2010",
+  "term_end5": "20 January 2014",
+  "office6": "Member of Parliament",
+  "term_start6": "November 2010",
+  "constituency6": "None (Special Seat)",
+  "birth_date": "September 5, 1973",
+  "nationality": "Tanzanian",
+  "party": "CCM",
+  "alma_mater": "UDSM (LL.B) University of Pretoria (LL.M)"
 }

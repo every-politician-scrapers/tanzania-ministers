@@ -1,406 +1,52 @@
 {
-  "title": "Hussein Mwinyi",
-  "pageID": 38586521,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Presidents of Zanzibar",
-    "Chama Cha Mapinduzi MPs",
-    "Tanzanian MPs 2010–2015",
-    "Tanzanian MPs 2015–2020",
-    "Government ministers of Tanzania",
-    "Zanzibari politicians",
-    "Tanzanian Muslims",
-    "Tanzanian medical doctors",
-    "Tanzanian physicians",
-    "Azania Secondary School alumni",
-    "Tambaza Secondary School alumni",
-    "Marmara University alumni",
-    "Children of national leaders"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hussein Ali Mwinyi (born in Unguja 23 December 1966) is a Tanzanian politician and the 8th president of Zanzibar.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Zanzibar"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hussein Ali Mwinyi"
-                ]
-              }
-            },
-            {
-              "text": "He was the Member of Parliament for Kwahani constituency since 2005.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                }
-              ]
-            },
-            {
-              "text": "He is the former Minister of Defence and National Service of Tanzania."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1966",
-          "month": "12",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Honourable Dr",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              },
-              {
-                "text": "Dr",
-                "type": "internal",
-                "page": "Doctor (title)"
-              }
-            ]
-          },
-          "name": {
-            "text": "Hussein Mwinyi"
-          },
-          "image": {
-            "text": "Hussein Mwinyi.jpg"
-          },
-          "order": {
-            "text": "8th"
-          },
-          "office": {
-            "text": "President of Zanzibar"
-          },
-          "term_start": {
-            "text": "3 November 2020"
-          },
-          "predecessor": {
-            "text": "Ali Mohamed Shein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Mohamed Shein"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Othman Masoud Sharif (first) Hemed Suleiman Abdalla (second)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Othman Masoud Sharif"
-              },
-              {
-                "type": "internal",
-                "page": "Hemed Suleiman Abdalla"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Defence and National Service",
-            "links": [
-              {
-                "text": "Minister of Defence and National Service",
-                "type": "internal",
-                "page": "Ministry of Defence and National Service"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "20 January 2014"
-          },
-          "term_end2": {
-            "text": "3 November 2020"
-          },
-          "predecessor2": {
-            "text": "Shamsi Vuai Nahodha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shamsi Vuai Nahodha"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Elias John Kwandikwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elias John Kwandikwa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 February 2008"
-          },
-          "term_end3": {
-            "text": "7 May 2012"
-          },
-          "predecessor3": {
-            "text": "Juma Kapuya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juma Kapuya"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Shamsi Vuai Nahodha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shamsi Vuai Nahodha"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Health and Social Welfare",
-            "links": [
-              {
-                "text": "Minister of Health and Social Welfare",
-                "type": "internal",
-                "page": "Ministry of Health and Social Welfare (Tanzania)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "7 May 2012"
-          },
-          "term_end4": {
-            "text": "20 January 2014"
-          },
-          "predecessor4": {
-            "text": "Hadji Mponda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hadji Mponda"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Seif Rashidi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seif Rashidi"
-              }
-            ]
-          },
-          "order5": {
-            "text": "1st"
-          },
-          "office5": {
-            "text": "Minister of State for Union Affairs"
-          },
-          "term_start5": {
-            "text": "6 January 2006"
-          },
-          "term_end5": {
-            "text": "13 February 2008"
-          },
-          "1blankname5": {
-            "text": "Vice President",
-            "links": [
-              {
-                "text": "Vice President",
-                "type": "internal",
-                "page": "Vice President of Tanzania"
-              }
-            ]
-          },
-          "1namedata5": {
-            "text": "Ali Mohamed Shein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Mohamed Shein"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Muhammed Seif Khatib",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammed Seif Khatib"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Deputy Minister of Health",
-            "links": [
-              {
-                "text": "Deputy Minister of Health",
-                "type": "internal",
-                "page": "Ministry of Health and Social Welfare (Tanzania)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_end6": {
-            "text": "2005",
-            "number": 2005
-          },
-          "president6": {
-            "text": "Benjamin Mkapa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benjamin Mkapa"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of Parliament for Kwahani",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              },
-              {
-                "text": "Kwahani",
-                "type": "internal",
-                "page": "Zanzibar Urban/West Region"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "December 2005"
-          },
-          "term_end7": {
-            "text": "2020",
-            "number": 2020
-          },
-          "office8": {
-            "text": "Member of Parliament for Mkuranga",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "October 2000"
-          },
-          "term_end8": {
-            "text": "2005",
-            "number": 2005
-          },
-          "successor8": {
-            "text": "Adam Malima",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adam Malima"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 23, 1966"
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "M"
-          },
-          "relations": {
-            "text": "Ali Hassan Mwinyi (father)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Hassan Mwinyi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Marmara University (MD) Hammersmith Hospital (PhD)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marmara University"
-              },
-              {
-                "type": "internal",
-                "page": "Hammersmith Hospital"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Physician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Physician"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Zanzibar State House"
-          },
-          "blank1": {
-            "text": "Medical practice",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Medical practice"
-              }
-            ]
-          },
-          "data1": {
-            "text": "Muhimbili Hospital (1993–95) HKMU (1998–2000)",
-            "links": [
-              {
-                "text": "HKMU",
-                "type": "internal",
-                "page": "Hubert Kairuki Memorial University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Honourable Dr",
+  "name": "Hussein Mwinyi",
+  "image": "Hussein Mwinyi.jpg",
+  "order": "8th",
+  "office": "President of Zanzibar",
+  "term_start": "3 November 2020",
+  "predecessor": "Ali Mohamed Shein",
+  "vicepresident": "Othman Masoud Sharif (first) Hemed Suleiman Abdalla (second)",
+  "office2": "Minister of Defence and National Service",
+  "term_start2": "20 January 2014",
+  "term_end2": "3 November 2020",
+  "predecessor2": "Shamsi Vuai Nahodha",
+  "successor2": "Elias John Kwandikwa",
+  "term_start3": "13 February 2008",
+  "term_end3": "7 May 2012",
+  "predecessor3": "Juma Kapuya",
+  "successor3": "Shamsi Vuai Nahodha",
+  "office4": "Minister of Health and Social Welfare",
+  "term_start4": "7 May 2012",
+  "term_end4": "20 January 2014",
+  "predecessor4": "Hadji Mponda",
+  "successor4": "Seif Rashidi",
+  "order5": "1st",
+  "office5": "Minister of State for Union Affairs",
+  "term_start5": "6 January 2006",
+  "term_end5": "13 February 2008",
+  "1blankname5": "Vice President",
+  "1namedata5": "Ali Mohamed Shein",
+  "successor5": "Muhammed Seif Khatib",
+  "office6": "Deputy Minister of Health",
+  "term_start6": "2000",
+  "term_end6": "2005",
+  "president6": "Benjamin Mkapa",
+  "office7": "Member of Parliament for Kwahani",
+  "term_start7": "December 2005",
+  "term_end7": "2020",
+  "office8": "Member of Parliament for Mkuranga",
+  "term_start8": "October 2000",
+  "term_end8": "2005",
+  "successor8": "Adam Malima",
+  "birth_date": "December 23, 1966",
+  "nationality": "Tanzanian",
+  "party": "CCM",
+  "spouse": "M",
+  "relations": "Ali Hassan Mwinyi (father)",
+  "alma_mater": "Marmara University (MD) Hammersmith Hospital (PhD)",
+  "profession": "Physician",
+  "residence": "Zanzibar State House",
+  "blank1": "Medical practice",
+  "data1": "Muhimbili Hospital (1993–95) HKMU (1998–2000)"
 }

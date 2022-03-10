@@ -1,310 +1,35 @@
 {
-  "title": "Mwigulu Nchemba",
-  "pageID": 39528655,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Chama Cha Mapinduzi MPs",
-    "Deputy government ministers of Tanzania",
-    "Tanzanian MPs 2010–2015",
-    "Tanzanian MPs 2015–2020",
-    "Tanzanian MPs 2020–2025",
-    "Ilboru Secondary School alumni",
-    "Mazengo Secondary School alumni",
-    "University of Dar es Salaam alumni",
-    "Finance Ministers of Tanzania",
-    "People from Singida Region"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mwigulu Lameck Nchemba (born 7 January 1975) is a Tanzanian economist and CCM politician, who serves as the elected Member of Parliament for Iramba West Constituency since 2010.",
-              "links": [
-                {
-                  "text": "CCM",
-                  "type": "internal",
-                  "page": "Chama Cha Mapinduzi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                },
-                {
-                  "text": "Iramba West",
-                  "type": "internal",
-                  "page": "Iramba"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mwigulu Lameck Nchemba"
-                ]
-              }
-            },
-            {
-              "text": "On 31 March 2021, President Samia Siluhu appointed him as the Minister of Finance and Planning, replacing Philip Mpango, who was elevated to the position of Vice President of Tanzania.",
-              "links": [
-                {
-                  "text": "Samia Siluhu",
-                  "type": "internal",
-                  "page": "Samia Suluhu Hassan"
-                },
-                {
-                  "text": "Minister of Finance and Planning",
-                  "type": "internal",
-                  "page": "Minister of Finance (Tanzania)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Philip Mpango"
-                },
-                {
-                  "type": "internal",
-                  "page": "Vice President of Tanzania"
-                }
-              ]
-            },
-            {
-              "text": "Before his current appointment, he served as the Minister of Law and Constitutional Afairs in the Tanzanian Cabinet, since May 2020."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tanzanian economist and politician",
-          "template": "short description"
-        },
-        {
-          "year": "1975",
-          "month": "01",
-          "day": "07",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mwigulu Nchemba"
-          },
-          "honorific-prefix": {
-            "text": "Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Mwigulu Nchemba.jpg"
-          },
-          "office": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Tanzania)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Philip Mpango",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philip Mpango"
-              }
-            ]
-          },
-          "president": {
-            "text": "Samia Suluhu",
-            "links": [
-              {
-                "text": "Samia Suluhu",
-                "type": "internal",
-                "page": "Samia Suluhu Hassan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "31 March 2021"
-          },
-          "office1": {
-            "text": "Minister of Justice and Constitutional Affairs",
-            "links": [
-              {
-                "text": "Minister of Justice and Constitutional Affairs",
-                "type": "internal",
-                "page": "Minister of Justice and Constitutional Affairs (Tanzania)"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Augustine Mahiga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Augustine Mahiga"
-              }
-            ]
-          },
-          "president1": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Palamagamba Kabudi",
-            "links": [
-              {
-                "text": "Palamagamba Kabudi",
-                "type": "internal",
-                "page": "Palamagamba John Aidan Mwaluko Kabudi"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2 May 2020"
-          },
-          "term_end1": {
-            "text": "31 March 2021"
-          },
-          "office2": {
-            "text": "Minister of Home Affairs"
-          },
-          "predecessor2": {
-            "text": "Stephen Wassira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Wassira"
-              }
-            ]
-          },
-          "president2": {
-            "text": "John Magufuli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Magufuli"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Alphaxard Lugola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alphaxard Lugola"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 June 2016"
-          },
-          "term_end2": {
-            "text": "1 July 2018"
-          },
-          "office3": {
-            "text": "Minister of Agriculture, Livestock and Fisheries"
-          },
-          "term_start3": {
-            "text": "November 2015"
-          },
-          "term_end3": {
-            "text": "June 2016"
-          },
-          "president3": {
-            "text": "John Magufuli"
-          },
-          "successor3": {
-            "text": "Charles Tizeba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Tizeba"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Parliament for Iramba West",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Tanzania)"
-              },
-              {
-                "text": "Iramba West",
-                "type": "internal",
-                "page": "Iramba"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "November 2010"
-          },
-          "predecessor5": {
-            "text": "Juma Killimbah"
-          },
-          "birth_date": {
-            "text": "January 7, 1975"
-          },
-          "birth_place": {
-            "text": "Makunda, Iramba District",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iramba District"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Tanzanian"
-          },
-          "alma_mater": {
-            "text": "University of Dar es Salaam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Dar es Salaam"
-              }
-            ]
-          },
-          "party": {
-            "text": "CCM",
-            "links": [
-              {
-                "text": "CCM",
-                "type": "internal",
-                "page": "Chama Cha Mapinduzi"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mwigulu Nchemba",
+  "honorific-prefix": "Honourable",
+  "honorific-suffix": "MP",
+  "image": "Mwigulu Nchemba.jpg",
+  "office": "Minister of Finance",
+  "predecessor": "Philip Mpango",
+  "president": "Samia Suluhu",
+  "term_start": "31 March 2021",
+  "office1": "Minister of Justice and Constitutional Affairs",
+  "predecessor1": "Augustine Mahiga",
+  "president1": "John Magufuli",
+  "successor1": "Palamagamba Kabudi",
+  "term_start1": "2 May 2020",
+  "term_end1": "31 March 2021",
+  "office2": "Minister of Home Affairs",
+  "predecessor2": "Stephen Wassira",
+  "president2": "John Magufuli",
+  "successor2": "Alphaxard Lugola",
+  "term_start2": "11 June 2016",
+  "term_end2": "1 July 2018",
+  "office3": "Minister of Agriculture, Livestock and Fisheries",
+  "term_start3": "November 2015",
+  "term_end3": "June 2016",
+  "president3": "John Magufuli",
+  "successor3": "Charles Tizeba",
+  "office5": "Member of Parliament for Iramba West",
+  "term_start5": "November 2010",
+  "predecessor5": "Juma Killimbah",
+  "birth_date": "January 7, 1975",
+  "birth_place": "Makunda, Iramba District",
+  "nationality": "Tanzanian",
+  "alma_mater": "University of Dar es Salaam",
+  "party": "CCM"
 }
