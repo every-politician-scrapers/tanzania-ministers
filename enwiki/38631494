@@ -1,7 +1,7 @@
 {
-  "honorific-prefix": "Right Honourable",
+  "honorific_prefix": "The Right Honourable",
   "name": "Kassim Majaliwa",
-  "honorific-suffix": "MP",
+  "honorific_suffix": "MP",
   "image": "Kassim Majaliwa.jpg",
   "order": "10th",
   "office": "Prime Minister of Tanzania",
@@ -20,7 +20,7 @@
   "term_end3": "2010",
   "president3": "Jakaya Kikwete",
   "birth_date": "December 22, 1961",
-  "birth_place": "Ruangwa District, Lindi Region, Tanganyika (now Tanzania)",
+  "birth_place": "Ruangwa District, Lindi Region, Tanganyika\n(now Tanzania)",
   "nationality": "Tanzanian",
   "party": "CCM",
   "spouse": "Mary",
