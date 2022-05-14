@@ -2,14 +2,13 @@ wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
 Q101649229,Adolf Mkenda,Adolf Mkenda,,,Q60690257,"Minister of Education, Science, Technology and Vocational Training",2022-01-10,Q101649229-797930d8-4fb4-0da6-ab8e-30e23240884f
 Q106234674,Dorothy Gwajima,Dorothy Gwajima,https://en.wikipedia.org/wiki/Dorothy_Gwajima,2022-01-19,Q110620468,Minister of Community Development & Gender,2022-01-10,Q106234674-05A33BDA-636C-4340-9D99-4726D6A264F2
 Q110178914,Eliezer Feleshi,Eliezer Feleshi,,,Q19850408,Attorney General of Tanzania,2021-09-12,Q110178914-AEACAA5C-8C2D-4218-A018-665FFD3553E7
-Q11045555,George Simbachawene,George Simbachawene,,,Q60688958,Minister of Constitutional and Legal Affairs,2022-01-10,Q11045555-70dfbeff-4a63-6f5f-1f74-492904ae7dbb
 Q1612942,January Makamba,January Makamba,https://en.wikipedia.org/wiki/January_Makamba,2021-12-18,Q60076275,Minister of Energy,2021-09-12,Q1612942-15EDB81C-AC31-4DFA-BC86-79B7ABF08D00
 Q16193885,Samia Suluhu,Samia Suluhu,,,Q7241291,President of Tanzania,2021-03-19,Q16193885-50ad3576-4ce6-a2c9-6d02-32187430b443
 Q16193890,Stergomena Lawrence Tax,Stergomena Lawrence Tax,https://en.wikipedia.org/wiki/Stergomena_Tax,2021-12-18,Q54087616,Minister of Defence and National Service,2021-09-13,Q16193890-F3F48C8F-9299-4D1B-B7C3-EBC782947B05
 Q16214437,Hamad Masauni,Hamad Masauni,https://en.wikipedia.org/wiki/Hamad_Masauni,2022-01-19,Q16147126,Minister of Home Affairs,2022-01-10,Q16214437-E56120A3-6995-40FC-9607-6BB3B508884F
 Q16732979,Liberata Mulamula,Liberata Mulamula,https://en.wikipedia.org/wiki/Liberata_Mulamula,2021-12-18,Q16147348,Ministry of Foreign Affairs and East African Cooperation,2021-03-31,Q16732979-C41FB4E1-3FC4-4116-8B4F-E0DD223B0113
 Q16733431,Nape Nnauye,Nape Nnauye,https://en.wikipedia.org/wiki/Nape_Nnauye,2022-01-19,Q110178688,"Minister of Information, Communication & ICT",2022-01-10,Q16733431-6D21499B-AB05-45EC-9354-F976690C9B16
-Q16873167,Damas Ndumbaro,Damas Ndumbaro,https://en.wikipedia.org/wiki/Damas_Ndumbaro,2021-12-18,Q67203591,Ministry of Natural Resources and Tourism,2020-12-05,Q16873167-FB13B8ED-3550-4C75-91C0-349D615CE1CD
+Q16873167,Damas Ndumbaro,Damas Ndumbaro,,,Q60688958,Minister of Constitutional and Legal Affairs,2022-04-04,Q16873167-2d63f273-422c-5d11-f0a1-9b452e68ec6f
 Q22279305,Philip Isdory Mpango,Philip Isdory Mpango,https://en.wikipedia.org/wiki/Philip_Mpango,2021-12-18,Q19057636,11th Vice-President of Tanzania,2021-03-31,Q22279305-DFEBEA0D-9B8E-4602-8A5C-FDBA6AC62C1B
 Q27469212,Angeline Mabula,Angeline Mabula,,,Q67203615,"Minister of Lands, Housing and Human Settlements Developments",2022-01-10,Q27469212-4bed92d1-4ab6-1ef0-b0e4-27587c86346c
 Q27656841,Ashatu Kijaji,Ashatu Kijaji,https://en.wikipedia.org/wiki/Ashatu_Kijaji,2022-01-19,Q67284358,"Minister of Industry, Trade & Investment",2022-01-10,Q27656841-C8B0735C-699D-4E2D-8C7C-0E2630708B22
@@ -20,6 +19,7 @@ Q31752753,Mwigulu Nchemba,Mwigulu Nchemba,https://en.wikipedia.org/wiki/Mwigulu_
 Q31752864,Mohamed Mchengerwa,Mohamed Mchengerwa,,,Q67203620,"Minister of Information, Culture, Arts and Sports",2022-01-10,Q31752864-41952e83-42c9-728c-3c63-38854afdc41a
 Q31752975,Mashimba Ndaki,Mashimba Ndaki,https://en.wikipedia.org/wiki/Mashimba_Ndaki,2021-12-18,Q110177753,Minister of Livestock and Fisheries,2020-12-01,Q31752975-E55DCBEB-4C91-48D1-92F0-AFDA65DB1AE5
 Q5018704,Hussein Mwinyi,Hussein Mwinyi,https://en.wikipedia.org/wiki/Hussein_Mwinyi,2021-12-18,Q3503632,President of Zanzibar,2020-11-03,Q5018704-9E7DDDCB-DB5F-4E5B-9481-A8532662B36B
+Q5687576,Hazara Pindi Chana,Hazara Pindi Chana,,,Q67203591,Minister of Natural Resources and Tourism,2022-04-04,Q5687576-c8dfc19f-43f6-7e4f-a590-f6d36cce6d9d
 Q6737420,Kassim Majaliwa,Kassim Majaliwa,https://en.wikipedia.org/wiki/Kassim_Majaliwa,2021-12-18,Q16147875,Prime Minister of Tanzania,2015-11-20,Q6737420-34733839-4cce-a4df-0a32-3ad85b9ea214
 Q6738666,Makame Mbarawa,Makame Mbarawa,,,Q59694390,"Minister of Works, Transport and Communications",2015-12-24,Q6738666-58fa4076-4a59-55f8-c838-ad5343d0f32c
 Q7881722,Ummy Mwalimu,Ummy Mwalimu,https://en.wikipedia.org/wiki/Ummy_Mwalimu,2022-01-19,Q54087259,"Minister of Health, Seniors and Children",2022-01-10,Q7881722-EF985604-A867-49BF-AED1-F0E89A2A0873
