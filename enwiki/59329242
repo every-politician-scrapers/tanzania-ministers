@@ -1,11 +1,13 @@
 {
-  "name": "Venance S. Mabeyo",
+  "name": "Venance Salvatory Mabeyo",
+  "alt": "Venance Salvatory Mabeyo in uniform sitting on a couch",
   "birth_date": "July 1, 1956",
   "birth_place": "Busega District, Tanganyika Territory",
-  "allegiance": "Tanzania",
-  "branch": "Army",
-  "serviceyears": "1979-2022",
+  "allegiance": "🇹🇿 Tanzania",
+  "branch": "Tanzania People's Defence Force (TPDF)",
+  "serviceyears": "1978–2022",
   "rank": "General",
-  "commands": "Commander-in-Chief of TPDF",
-  "battles": "Kagera War"
+  "commands": "Defense Forces Chief of the TPDF",
+  "battles": "Uganda–Tanzania War Insurgency in Cabo Delgado",
+  "laterwork": "Head of the Ngorongoro Conservation Area Authority"
 }
