@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "Tanzania",
+      "id": "Q924"
+    },
+    "cabinet": {
+      "id": "Q106610313",
+      "start": "2021-09-12",
+      "parent": "Q5015563"
+    },
+    "source": {
+        "url":   "https://en.wikipedia.org/wiki/Suluhu_Cabinet"
+    }
+}
