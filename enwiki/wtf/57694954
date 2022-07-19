@@ -1,0 +1,244 @@
+{
+  "title": "Doto Biteko",
+  "pageID": 57694954,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "Chama Cha Mapinduzi politicians",
+    "Tanzanian MPs 2015–2020"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Doto Mashaka Biteko (born December 30, 1978) is a Tanzanian politician and a member of the Chama Cha Mapinduzi political party.",
+              "links": [
+                {
+                  "text": "Tanzanian",
+                  "type": "internal",
+                  "page": "Demographics of Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chama Cha Mapinduzi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Doto Mashaka Biteko"
+                ]
+              }
+            },
+            {
+              "text": "He was elected MP representing Bukombe in 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bukombe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed as the Minister of Minerals on 9 January 2019.",
+              "links": [
+                {
+                  "text": "Minister of Minerals",
+                  "type": "internal",
+                  "page": "Ministry of Minerals (Tanzania)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1978",
+          "month": "12",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Doto Mashaka Biteko"
+          },
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Minerals",
+            "links": [
+              {
+                "text": "Minister of Minerals",
+                "type": "internal",
+                "page": "Ministry of Minerals (Tanzania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 January 2019"
+          },
+          "president": {
+            "text": "John Magufuli (2019-2021) Samia Suluhu (2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Magufuli"
+              },
+              {
+                "type": "internal",
+                "page": "Samia Suluhu"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Angellah Kairuki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Angellah Kairuki"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of Parliament for Bukombe",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              },
+              {
+                "type": "internal",
+                "page": "Bukombe"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 2015"
+          },
+          "party": {
+            "text": "Chama Cha Mapinduzi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 30, 1978"
+          },
+          "nationality": {
+            "text": "Tanzanian"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/47",
+          "title": "Parliament of Tanzania",
+          "website": "www.parliament.go.tz",
+          "access-date": "2018-06-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mining-journal.com/resourcestocks-company-profiles/resourcestocks/1336602/resourcestocks-q-john-de-vries-black-rock-mining",
+          "title": "Mining Journal - Resource Stocks Q&A: John De Vries, Black Rock Mining",
+          "work": "Mining Journal",
+          "access-date": "2018-06-16",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.meteoweb.eu/2016/11/clima-fine-dei-combustibili-fossili-per-47-paesi-e-possibile/791010/",
+          "title": "Clima: fine dei combustibili fossili, per 47 Paesi è possibile - Meteo Web",
+          "last": "Petris",
+          "first": "Antonella",
+          "date": "2016-11-18",
+          "work": "Meteo Web",
+          "access-date": "2018-06-16",
+          "language": "it-IT",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Magufuli amteua waziri mpya Tanzania",
+          "language": "sw",
+          "work": "BBC News Swahili",
+          "url": "https://www.bbc.com/swahili/habari-46806519",
+          "access-date": "2020-07-13",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-01-10",
+          "title": "Tanzanian President Samia Suluhu reshuffles Cabinet",
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/president-samia-reshuffles-tanzanian-cabinet-3676116",
+          "access-date": "2022-01-15",
+          "website": "The East African",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "ODUNGA",
+          "first": "By MAUREEN",
+          "date": "2022-01-09",
+          "title": "The trusted lieutenants",
+          "url": "https://dailynews.co.tz/news/2022-01-0961daa636b4be6.aspx",
+          "access-date": "2022-01-15",
+          "website": "dailynews.co.tz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinet of tanzania"
+        }
+      ]
+    }
+  ]
+}

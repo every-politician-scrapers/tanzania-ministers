@@ -1,0 +1,231 @@
+{
+  "title": "Pindi Chana",
+  "pageID": 41699778,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "Chama Cha Mapinduzi MPs",
+    "Tanzanian MPs 2010–2015",
+    "Deputy government ministers of Tanzania",
+    "Shinyanga Commercial School alumni",
+    "University of Dar es Salaam alumni",
+    "Mzumbe University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pindi Hazara Chana (born 24 January 1974) is a Tanzanian CCM politician and a special seat Member of Parliament since 2010.",
+              "links": [
+                {
+                  "text": "CCM",
+                  "type": "internal",
+                  "page": "Chama Cha Mapinduzi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pindi Hazara Chana"
+                ]
+              }
+            },
+            {
+              "text": "Since January 2022 she is Minister of State (Policy, Parliamentary Affairs, Labour, Youth, Employment and Persons with Disabilities) in the Prime Minister's Office."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Chana assumed the Ministry of Natural Resources & Tourism office following a mini cabinet re-shuffle on 31st March 2022."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tanzanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "01",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Pindi Chana"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Natural Resources & Tourism"
+          },
+          "term_start": {
+            "text": "31 March 2022"
+          },
+          "alongside": {
+            "text": "Mary F. Masanja",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mary F. Masanja"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Damas D. Ndumbaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damas D. Ndumbaro"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Tanzania)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 2010"
+          },
+          "constituency2": {
+            "text": "None (Special Seat)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Special Seat"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 24, 1974"
+          },
+          "nationality": {
+            "text": "Tanzanian",
+            "links": [
+              {
+                "text": "Tanzanian",
+                "type": "internal",
+                "page": "Tanzania"
+              }
+            ]
+          },
+          "party": {
+            "text": "CCM",
+            "links": [
+              {
+                "text": "CCM",
+                "type": "internal",
+                "page": "Chama Cha Mapinduzi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Peoples' Friendship University UDSM (LL.M) Mzumbe University (PhD)",
+            "links": [
+              {
+                "text": "Peoples' Friendship University",
+                "type": "internal",
+                "page": "Peoples' Friendship University of Russia"
+              },
+              {
+                "text": "UDSM",
+                "type": "internal",
+                "page": "University of Dar es Salaam"
+              },
+              {
+                "type": "internal",
+                "page": "Mzumbe University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.go.tz/index.php/members/mpcvs/1480/2010-2015",
+          "title": "Member of Parliament CV",
+          "publisher": "Parliament of Tanzania",
+          "accessdate": "21 January 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Owere",
+          "first1": "Paul",
+          "last2": "Wambura",
+          "first2": "Bethsheba",
+          "title": "President Samia rings changes in cabinet",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/president-samia-rings-changes-in-cabinet-3676040",
+          "website": "The Citizen",
+          "access-date": "9 January 2022",
+          "date": "8 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Wizara ya Maliasili",
+          "url": "https://www.maliasili.go.tz/about/h.e-ambassador-dr.-pindi-h.-chana",
+          "website": "Ministry of Natural Resources & Tourism",
+          "access-date": "3 April 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinet of tanzania"
+        },
+        {
+          "template": "tanzania deputy ministers"
+        },
+        {
+          "template": "tanzania-politician-stub"
+        }
+      ]
+    }
+  ]
+}
