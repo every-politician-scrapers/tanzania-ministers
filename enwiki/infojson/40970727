@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament for Kikwajuni"
+    },
+    "P580": "2010-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Home Affairs (Tanzania)"
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "George Simbachawene"
+      ],
+      "stated_as": "George Simbachawene"
+    }
+  }
+]

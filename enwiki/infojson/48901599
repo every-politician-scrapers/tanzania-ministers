@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of the Parliament of Tanzania"
+    },
+    "P580": "2015",
+    "P582": "2021"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance"
+      ],
+      "stated_as": "15th Minister of Finance"
+    },
+    "P580": "2015-11",
+    "P582": "2021-03-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of Tanzania"
+      ],
+      "stated_as": "11th Vice-President of Tanzania"
+    },
+    "P580": "2021-03-31",
+    "P1365": {
+      "links": [
+        "Samia Suluhu"
+      ],
+      "stated_as": "Samia Suluhu"
+    }
+  }
+]

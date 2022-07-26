@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2015-11"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Minister of Finance and Planning"
+    },
+    "P580": "2015-12",
+    "P582": "2021-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communication, Science and Technology"
+      ],
+      "stated_as": "Minister of Communication & ICT"
+    },
+    "P580": "2021-09-12",
+    "P1365": {
+      "links": [
+        "Faustine Ndugulile"
+      ],
+      "stated_as": "Faustine Ndugulile"
+    },
+    "P582": "2022-01-08",
+    "P1366": {
+      "links": [
+        "Nape Nnauye"
+      ],
+      "stated_as": "Nape Nnauye"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Investment, Industry and Trade"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Geofrey Mwambe"
+      ],
+      "stated_as": "Geofrey Mwambe"
+    }
+  }
+]

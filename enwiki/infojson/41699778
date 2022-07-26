@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2010-11"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Natural Resources & Tourism"
+    },
+    "P580": "2022-03-31",
+    "P1365": {
+      "links": [
+        "Damas D. Ndumbaro"
+      ],
+      "stated_as": "Damas D. Ndumbaro"
+    }
+  }
+]

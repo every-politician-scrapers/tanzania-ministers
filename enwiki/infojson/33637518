@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)",
+        "Bumbuli"
+      ],
+      "stated_as": "Member of Parliament\nfor Bumbuli"
+    },
+    "P580": "2010-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "William Shellukindo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Ministry of Communication, Science and Technology|Deputy Minister of Communication,\nScience and Technology]]"
+    },
+    "P580": "2012-05-07",
+    "P1365": {
+      "links": [
+        "Charles Kitwanga"
+      ],
+      "stated_as": "Charles Kitwanga"
+    },
+    "P582": "2015-11-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of State in the\nVice President's Office"
+    },
+    "P580": "2015-12-12",
+    "P582": "2019-07-21",
+    "P1366": {
+      "links": [
+        "George Simbachawene"
+      ],
+      "stated_as": "George Simbachawene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Energy"
+    },
+    "P1545": "2",
+    "P580": "2021-09-12",
+    "P1365": {
+      "links": [
+        "Medard Kalemani"
+      ],
+      "stated_as": "Medard Kalemani"
+    }
+  }
+]

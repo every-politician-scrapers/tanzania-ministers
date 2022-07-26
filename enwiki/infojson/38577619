@@ -1,0 +1,100 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Tourism, Trade and Investment"
+    },
+    "P580": "2005",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mussa Silima"
+    },
+    "P582": "2010",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Said Ali Mbarouk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Tanzania)",
+        "Makunduchi"
+      ],
+      "stated_as": "Member of Parliament for Makunduchi"
+    },
+    "P580": "2010-11",
+    "P582": "2015-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ameir Timbe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of State for Union Affairs in the Vice President's Office"
+    },
+    "P580": "2010-11-29",
+    "P1365": {
+      "links": [
+        "Muhammed Seif Khatib"
+      ],
+      "stated_as": "Muhammed Seif Khatib"
+    },
+    "P582": "2015-11-05",
+    "P1366": {
+      "links": [
+        "January Makamba"
+      ],
+      "stated_as": "January Makamba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of Tanzania"
+      ],
+      "stated_as": "10th Vice-President of Tanzania"
+    },
+    "P580": "2015-11-05",
+    "P1365": {
+      "links": [
+        "Mohamed Gharib Bilal"
+      ],
+      "stated_as": "Mohamed Gharib Bilal"
+    },
+    "P582": "2021-03-19",
+    "P1366": {
+      "links": [
+        "Philip Mpango"
+      ],
+      "stated_as": "Philip Mpango"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Tanzania"
+      ],
+      "stated_as": "6th President of Tanzania"
+    },
+    "P580": "2021-03-19",
+    "P1365": {
+      "links": [
+        "John Magufuli"
+      ],
+      "stated_as": "John Magufuli"
+    }
+  }
+]

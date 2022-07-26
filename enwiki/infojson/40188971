@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Tanzanian High Commissioner to Canada"
+    },
+    "P580": "1999",
+    "P582": "2002"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Executive Secretary of ICGLR"
+    },
+    "P1545": "1",
+    "P580": "2006-12",
+    "P582": "2011-12-15",
+    "P1366": {
+      "links": [
+        "Ntumba Luaba"
+      ],
+      "stated_as": "Ntumba Luaba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Senior Advisor to the President (Diplomatic Affairs)"
+    },
+    "P580": "2012-02-28",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Tanzanian Ambassador to the U.S."
+    },
+    "P1545": "15",
+    "P580": "2013-07-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mwanaidi Maajar"
+    },
+    "P582": "2015-05-27"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry of Foreign Affairs and East African Cooperation"
+    },
+    "P1545": "16",
+    "P580": "2021-03-31",
+    "P1365": {
+      "links": [
+        "Palamagamba John Aidan Mwaluko Kabudi"
+      ],
+      "stated_as": "Palamagamba Kabudi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2021-04-01"
+  }
+]

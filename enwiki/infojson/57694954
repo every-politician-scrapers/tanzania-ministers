@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)",
+        "Bukombe"
+      ],
+      "stated_as": "Member of Parliament for Bukombe"
+    },
+    "P580": "2015-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Minerals (Tanzania)"
+      ],
+      "stated_as": "Minister of Minerals"
+    },
+    "P580": "2019-01-09",
+    "P1365": {
+      "links": [
+        "Angellah Kairuki"
+      ],
+      "stated_as": "Angellah Kairuki"
+    }
+  }
+]

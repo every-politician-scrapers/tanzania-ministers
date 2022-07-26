@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2015-12-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture (Tanzania)"
+      ],
+      "stated_as": "Minister of Agriculture"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Adolf Mkenda"
+      ],
+      "stated_as": "Adolf Mkenda"
+    }
+  }
+]

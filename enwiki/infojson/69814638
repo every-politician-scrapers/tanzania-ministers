@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament",
+        "Rufiji District"
+      ],
+      "stated_as": "The Member of Parliament\nfor Rufiji"
+    },
+    "P580": "2015-11"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ministers of State in the President’s Office"
+    },
+    "P580": "2021-03-31",
+    "P1365": {
+      "links": [
+        "Kitila Mkumbo"
+      ],
+      "stated_as": "Kitila Mkumbo"
+    },
+    "P582": "2022-01-08",
+    "P1366": {
+      "links": [
+        "Innocent Bashungwa"
+      ],
+      "stated_as": "Innocent Bashungwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Culture, Artists and Sports"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Innocent Bashungwa"
+      ],
+      "stated_as": "Innocent Bashungwa"
+    }
+  }
+]

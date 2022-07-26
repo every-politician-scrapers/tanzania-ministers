@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)",
+        "Rombo District"
+      ],
+      "stated_as": "Member of Parliament\nfor Rombo"
+    },
+    "P580": "2020",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Joseph Selasini"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture"
+      ],
+      "stated_as": "Minister of Agriculture"
+    },
+    "P580": "2020-12-06",
+    "P1365": {
+      "links": [
+        "Japhet Hasunga"
+      ],
+      "stated_as": "Japhet Hasunga"
+    },
+    "P582": "2022-01-10",
+    "P1366": {
+      "links": [
+        "Hussein Mohamed Bashe"
+      ],
+      "stated_as": "Hussein Bashe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education and Vocational Training"
+      ],
+      "stated_as": "Minister of Education, Science, Technology and Vocational Training"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Joyce Ndalichako"
+      ],
+      "stated_as": "Joyce Ndalichako"
+    }
+  }
+]

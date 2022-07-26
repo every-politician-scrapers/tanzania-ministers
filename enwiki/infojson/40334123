@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Masasi"
+      ],
+      "stated_as": "The District Commissioner for Masasi"
+    },
+    "P580": "2010-09-10",
+    "P582": "2011-04"
+  },
+  {
+    "office": {
+      "links": [
+        "Chama Cha Mapinduzi"
+      ],
+      "stated_as": "Chama Cha Mapinduzi The Secretary\nfor Ideology and Publicity"
+    },
+    "P580": "2011-04",
+    "P1365": {
+      "links": [
+        "Kingunge Ngombale–Mwiru"
+      ],
+      "stated_as": "Kingunge Ngombale–Mwiru"
+    },
+    "P582": "2016-12-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of Parliament",
+        "Mtama"
+      ],
+      "stated_as": "The Member of Parliament\nfor Mtama"
+    },
+    "P580": "2015-11",
+    "P1365": {
+      "links": [
+        "Bernard Membe"
+      ],
+      "stated_as": "Bernard Membe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "The Minister of Information, Culture,\nArtists and Sports"
+    },
+    "P580": "2015-12-12",
+    "P1365": {
+      "links": [
+        "Fenella Mukangara"
+      ],
+      "stated_as": "Fenella Mukangara"
+    },
+    "P582": "2017-03-23",
+    "P1366": {
+      "links": [
+        "Harrison Mwakyembe"
+      ],
+      "stated_as": "Harrison Mwakyembe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communication, Science and Technology"
+      ],
+      "stated_as": "Minister of Information, Communication & ICT"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Ashatu Kijaji"
+      ],
+      "stated_as": "Ashatu Kijaji"
+    }
+  }
+]

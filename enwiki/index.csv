@@ -1,28 +1,28 @@
-pageid,title
-33637518,January Makamba
-38577619,Samia Suluhu Hassan
-38585956,Makame Mbarawa
-38586521,Hussein Mwinyi
-38631494,Kassim Majaliwa
-38641162,Ummy Mwalimu
-38685751,Damas Ndumbaro
-39528655,Mwigulu Nchemba
-40188971,Liberata Mulamula
-40288819,Stergomena Tax
-40334123,Nape Nnauye
-40970727,Hamad Masauni
-41699778,Pindi Chana
-48272370,Tulia Ackson
-48901599,Philip Mpango
-52015654,Angeline Mabula
-52109515,Ashatu Kijaji
-55605101,Florens Luoga
-55842701,Jumaa Hamidu Aweso
-57479717,Hussein Mohamed Bashe
-57694954,Doto Biteko
-59329242,Venance Salvatory Mabeyo
-65840966,Adolf Mkenda
-67285657,Dorothy Gwajima
-67285974,Mashimba Ndaki
-69805191,Eliezer Feleshi
-69814638,Mohamed Mchengerwa
+pageid,title,wikidata,label
+33637518,January Makamba,Q1612942,January Makamba
+38577619,Samia Suluhu Hassan,Q16193885,Samia Suluhu
+38585956,Makame Mbarawa,Q6738666,Makame Mbarawa
+38586521,Hussein Mwinyi,Q5018704,Hussein Mwinyi
+38631494,Kassim Majaliwa,Q6737420,Kassim Majaliwa
+38641162,Ummy Mwalimu,Q7881722,Ummy Mwalimu
+38685751,Damas Ndumbaro,Q16873167,Damas Ndumbaro
+39528655,Mwigulu Nchemba,Q31752753,Mwigulu Nchemba
+40188971,Liberata Mulamula,Q16732979,Liberata Mulamula
+40288819,Stergomena Tax,Q16193890,Stergomena Lawrence Tax
+40334123,Nape Nnauye,Q16733431,Nape Nnauye
+40970727,Hamad Masauni,Q16214437,Hamad Masauni
+41699778,Pindi Chana,Q5687576,Hazara Pindi Chana
+48272370,Tulia Ackson,Q21170429,Tulia Ackson
+48901599,Philip Mpango,Q22279305,Philip Isdory Mpango
+52015654,Angeline Mabula,Q27469212,Angeline Mabula
+52109515,Ashatu Kijaji,Q27656841,Ashatu Kijaji
+55605101,Florens Luoga,Q42307544,Florens Luoga
+55842701,Jumaa Hamidu Aweso,Q30090592,Jumaa Aweso
+57479717,Hussein Mohamed Bashe,Q30090584,Hussein Bashe
+57694954,Doto Biteko,Q30090598,Doto Biteko
+59329242,Venance Salvatory Mabeyo,Q59725943,Venance Salvatory Mabeyo
+65840966,Adolf Mkenda,Q101649229,Adolf Mkenda
+67285657,Dorothy Gwajima,Q106234674,Dorothy Gwajima
+67285974,Mashimba Ndaki,Q31752975,Mashimba Ndaki
+69805191,Eliezer Feleshi,Q110178914,Eliezer Feleshi
+69814638,Mohamed Mchengerwa,Q31752864,Mohamed Mchengerwa
