@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2020-11"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry of Natural Resources and Tourism"
+    },
+    "P580": "2020-12-05",
+    "P1365": {
+      "links": [
+        "Hamisi Kigwangalla"
+      ],
+      "stated_as": "Hamisi Kigwangalla"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2015-10-29"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Livestock and Fisheries"
+    },
+    "P580": "2020-12",
+    "P1365": {
+      "links": [
+        "Luhaga Mpina"
+      ],
+      "stated_as": "Luhaga Mpina"
+    }
+  }
+]

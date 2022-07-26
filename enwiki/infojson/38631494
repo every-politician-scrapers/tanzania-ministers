@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "District Commissioner for Urambo"
+    },
+    "P580": "2006",
+    "P582": "2010"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Minister of State for Regional Administration and Local Government"
+    },
+    "P580": "2010-11",
+    "P582": "2015-11-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)",
+        "Ruangwa"
+      ],
+      "stated_as": "Member of Parliament\nfor Ruangwa"
+    },
+    "P580": "2010-11"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Tanzania"
+    },
+    "P1545": "10",
+    "P580": "2015-11-20",
+    "P1365": {
+      "links": [
+        "Mizengo Pinda"
+      ],
+      "stated_as": "Mizengo Pinda"
+    }
+  }
+]

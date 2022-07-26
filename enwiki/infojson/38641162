@@ -1,0 +1,90 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2010-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Community Development, Gender and Children"
+      ],
+      "stated_as": "Deputy Minister of Community Development, Gender and Children"
+    },
+    "P580": "2010-11-28",
+    "P582": "2014-01-20"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy State Minister of Environment"
+    },
+    "P580": "2014-01-30",
+    "P1365": {
+      "links": [
+        "Charles Kitwanga"
+      ],
+      "stated_as": "Charles Kitwanga"
+    },
+    "P582": "2015-11-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health, Community Development, Gender, Seniors and Children"
+    },
+    "P580": "2015-12-12",
+    "P582": "2020-11-05",
+    "P1366": {
+      "links": [
+        "Dorothy Gwajima"
+      ],
+      "stated_as": "Dorothy Gwajima"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of State in the Vice President’s Office (Union and Environment)"
+    },
+    "P580": "2020-12-09",
+    "P1365": {
+      "links": [
+        "Mussa Zungu"
+      ],
+      "stated_as": "Mussa Zungu"
+    },
+    "P582": "2022-01-10",
+    "P1366": {
+      "links": [
+        "Jenista Mhagama"
+      ],
+      "stated_as": "Jenista Mhagama"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Dorothy Gwajima"
+      ],
+      "stated_as": "Dorothy Gwajima"
+    }
+  }
+]

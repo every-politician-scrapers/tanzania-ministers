@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of East African Cooperation"
+      ],
+      "stated_as": "Permanent Secretary at the Ministry of East African Cooperation"
+    },
+    "P580": "2008-11",
+    "P582": "2013-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Joyce Mapunjo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Executive Secretary of SADC"
+    },
+    "P1545": "4",
+    "P580": "2013-09",
+    "P1365": {
+      "links": [
+        "Tomaz Salomão"
+      ],
+      "stated_as": "Tomaz Salomão"
+    },
+    "P582": "2021-08-15",
+    "P1366": {
+      "links": [
+        "Elias Mpedi Magosi"
+      ],
+      "stated_as": "Elias Mpedi Magosi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Defence and National Service"
+    },
+    "P580": "2021-09-13",
+    "P1365": {
+      "links": [
+        "Elias John Kwandikwa"
+      ],
+      "stated_as": "Elias John Kwandikwa"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of the 1st Constituent Assembly of Tanzania"
+    },
+    "P580": "2014-02-18",
+    "P582": "2014-10-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Attorney General of Tanzania"
+      ],
+      "stated_as": "16th Deputy Attorney General of Tanzania"
+    },
+    "P580": "2015-09-09",
+    "P1365": {
+      "links": [
+        "George Masaju"
+      ],
+      "stated_as": "George Masaju"
+    },
+    "P582": "2015-11-15"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Tanzania"
+      ],
+      "stated_as": "Member of the National Assembly of Tanzania"
+    },
+    "P580": "2015-11-19",
+    "P1365": {
+      "links": [
+        "Anna Makinda"
+      ],
+      "stated_as": "Anna Makinda"
+    }
+  }
+]

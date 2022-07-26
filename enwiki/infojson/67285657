@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health, Community Development, Gender, Seniors and Children"
+    },
+    "P580": "2020-12-05",
+    "P1365": {
+      "links": [
+        "Ummy Mwalimu"
+      ],
+      "stated_as": "Ummy Mwalimu"
+    },
+    "P582": "2022-01-08",
+    "P1366": {
+      "links": [
+        "Ummy Mwalimu"
+      ],
+      "stated_as": "Ummy Mwalimu Ministry split"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2020-12-08"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Community Development & Gender"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position Established"
+    }
+  }
+]

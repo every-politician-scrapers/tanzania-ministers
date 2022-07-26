@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2022-01",
+    "P1365": {
+      "links": [
+        "Highness Kiwia"
+      ],
+      "stated_as": "Highness Kiwia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Lands, Housing and Human Settlements Developments"
+      ],
+      "stated_as": "Minister of Lands and Human Settlement Development"
+    },
+    "P580": "2022-01-08",
+    "P1365": {
+      "links": [
+        "William Lukuvi"
+      ],
+      "stated_as": "William Lukuvi"
+    }
+  }
+]

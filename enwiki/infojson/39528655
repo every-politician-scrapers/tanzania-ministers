@@ -1,0 +1,93 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Tanzania)",
+        "Iramba"
+      ],
+      "stated_as": "Member of Parliament for Iramba West"
+    },
+    "P580": "2010-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Juma Killimbah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Agriculture, Livestock and Fisheries"
+    },
+    "P580": "2015-11",
+    "P582": "2016-06",
+    "P1366": {
+      "links": [
+        "Charles Tizeba"
+      ],
+      "stated_as": "Charles Tizeba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2016-06-11",
+    "P1365": {
+      "links": [
+        "Stephen Wassira"
+      ],
+      "stated_as": "Stephen Wassira"
+    },
+    "P582": "2018-07-01",
+    "P1366": {
+      "links": [
+        "Alphaxard Lugola"
+      ],
+      "stated_as": "Alphaxard Lugola"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice and Constitutional Affairs (Tanzania)"
+      ],
+      "stated_as": "Minister of Justice and Constitutional Affairs"
+    },
+    "P580": "2020-05-02",
+    "P1365": {
+      "links": [
+        "Augustine Mahiga"
+      ],
+      "stated_as": "Augustine Mahiga"
+    },
+    "P582": "2021-03-31",
+    "P1366": {
+      "links": [
+        "Palamagamba John Aidan Mwaluko Kabudi"
+      ],
+      "stated_as": "Palamagamba Kabudi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Tanzania)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2021-03-31",
+    "P1365": {
+      "links": [
+        "Philip Mpango"
+      ],
+      "stated_as": "Philip Mpango"
+    }
+  }
+]
