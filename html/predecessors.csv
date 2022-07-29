@@ -1,0 +1,21 @@
+wanted,position,positionid,from,start,end
+Q104524120,"Minister of Industry, Trade and Investment",Q67284358,Q27656841,2022-01-10,
+Q27656841,"Minister of Education, Science, Technology and Vocational Training",Q60690257,Q101649229,2022-01-10,
+Q106338466,Minister of Investment,Q110178353,Q104524120,2021-04-01,2022-01-08
+Q31752531,Minister of Communication and ICT,Q110178688,Q16206282,2020-12-05,2021-09-12
+Q31752531,Minister of Works and Transport,Q59694390,Q104523287,2020-12-05,2021-09-11
+Q5018837,"Minister of Information, Culture, Arts and Sports",Q67203620,Q30090589,2020-12-05,2022-01-08
+Q5645411,Minister of Natural Resources and Tourism,Q67203591,Q16873167,2020-12-05,2022-04-04
+Q6738666,Minister of Water and Irrigation,Q16147179,Q30090592,2020-12-05,
+Q13123763,Minister of Livestock and Fisheries,Q110177753,Q31752975,2020-12,
+Q16195184,Minister of Home Affairs,Q16147126,Q11045555,2020-01-23,2022-01-08
+Q19561408,Attorney General,Q19850408,Q97305372,2018-02-01,2021-09-11
+Q5018837,Minister of Constitutional and Legal Affairs,Q60688958,Q29579700,2017-10-07,2019-03-03
+Q13124934,Minister of Home Affairs,Q16147126,Q31752753,2016-06-11,2018-07-01
+Q5443307,"Minister of Information, Culture, Arts and Sports",Q67203620,Q16733431,2015-12-12,2017-03-23
+Q7504868,"Minister of Education, Science, Technology and Vocational Training",Q60690257,Q22279375,2015-11-05,2022-01-08
+Q456003,"Minister of Lands, Housing and Human Settlements Developments",Q67203615,Q8014785,2015-01-24,2022-01-08
+Q7563912,Minister of Energy and Minerals,Q110178866,Q11045555,2015-01-24,2015-11-05
+Q16192851,Minister of Health,Q54087259,Q5018704,2012-05-07,2014-01-20
+Q7504868,Minister of Works and Transport,Q59694390,Q5018756,2010-11-28,2015-11-05
+Q302913,Minister of Works and Transport,Q59694390,Q5018756,2000,2005-12-21
